@@ -1,0 +1,56 @@
+<!doctype html>
+{% load staticfiles %}
+<html lang= "en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="A web application to visualize BC beer and brewery trends, with a focus on craft.">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>BCBeerTrends</title>
+        <!--Someone at one point said "let's use foundation because it isn't bootstrap", so here it is -->
+        <link rel="stylesheet" href="{% static 'foundation.min.css' %}"><!--https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.1/css/foundation.min.css">-->
+        <link rel="stylesheet" href="{% static 'app.css' %}">
+    </head>
+    <body>
+        <div class="grid-y medium-grid-frame grid-padding-y">
+            <div class="cell full header">
+                <div class="grid-x">
+                    <div class="cell large-2 large-offset-10 medium-4 medium-offset-7 small-6 small-offset-4">
+                        <ul class="menu">
+                            {% if user.is_authenticated %}
+                                <li><a href="/profiles">User: {{ user.get_username }}</a></li>
+                                <li><a href="{% url 'logout'%}?next={{request.path}}">Logout</a></li>
+                            {% else %}
+                                <li><a href="{% url 'login'%}?next={{request.path}}">Login</a></li>
+                                <li><a href="{% url 'register'%}">Register</a></li>
+                            {% endif %}
+                        </ul>
+                    </div>
+                </div>
+                <a href="/"><h1>BCBeerTrends</h1></a>
+                <div class="grid-x padding-gutters">
+                    <div class="cell small-12">
+                        <!-- This is the start of the Menu items-->
+                        <div class="row">
+                          <div class="small-4 columns">
+                            <ul class="menu align-left ">
+                              <li><a href="/recommender">Beer Recommender</a></li>
+                              <li><a href="/trends">Trends</a></li>
+                              <li><a href="/profiles">My Profile</a></li>
+                            </ul>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cell medium-8 medium-cell-block-y">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
+        <div class="cell shrink footer">
+            BCBeerTrends by: Colin, Dylan, Sam, Jeff aka Group 15 for CMPT470 2017
+        </div>
+    <script src="{% static 'foundation.min.js' %}"></script>
+    <script src="{% static 'jquery.js' %}"></script>
+    </body>
+</html>

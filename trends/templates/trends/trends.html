@@ -1,0 +1,77 @@
+{% extends 'beertrends/base.html' %}
+{% block content %}
+{% load static %}	
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="http://malsup.github.com/jquery.form.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script type="text/javascript" src="{% static "trends.js" %}"></script>
+
+<div id="myDiv" style="display:none; width: 800px; height: 400px;" ></div>
+<div id="message" style="color:#1779ba"></div>
+<form id="form" action="{% url 'trends:trends' %}" method="post">
+{% csrf_token %}
+<div class="grid-x">
+   	<div style ="margin-right: 3em" class="small-12 medium-6 large-2">
+		<label for="start_date">Start Date</label>
+		<input type="date" name="start_date" id="start_date">
+	</div>
+	<div style ="margin-left: 3em" class="small-12 medium-6 large-2">
+	<label for="end_date">End Date</label>
+	<input type="date" name="end_date" id="end_date">
+	</div>
+</div>
+<div class="grid-x">
+    <div class="small-6">
+        <input name="beer_id" id="beer_id" type="text" style="display:none">
+        <label for="search_box">Search Beers</label>
+	    <input onkeyup="searchBeers(this.value);" name="search_box" id="search_box" autocomplete="off">
+    </div>
+    <div class="auto cell"></div>
+</div>
+<div class="grid-x">
+    <div class="small-4" id="suggestions">
+        <span> <Strong>Click on a Beer to See Trends Graph</Strong></span>
+        <div onclick="getBeerId(0);" id="suggestion0" ></div>
+        <div onclick="getBeerId(1);" id="suggestion1" ></div>
+        <div onclick="getBeerId(2);" id="suggestion2" ></div>
+        <div onclick="getBeerId(3);" id="suggestion3" ></div>
+        <div onclick="getBeerId(4);" id="suggestion4" ></div>
+    </div>
+</div>
+</form>
+
+<script>
+//Only using this script here because template variables are a major pain to feed into the static javascript folder
+//Create some variables to store our data
+var xData = [];
+var yData = [];
+var dates;
+var rates;
+//Populate the x and y data for the graph from the template variables
+{%for beerID, test in ratings.items%}
+	{%for date, rate in test.items%}
+		//Save the the date and rate into a Javascript variable
+		dates = JSON.stringify("{{date | safe}}");
+		rates = JSON.stringify("{{rate | safe}}");
+		dates = JSON.parse(dates);
+		rates = JSON.parse(rates);
+		
+		//Parse our the extra quotation marks
+		dates = dates.replace(/"/g,"");
+		rates = rates.replace(/"/g,"");
+	
+		xData.push(dates);
+		yData.push(rates);
+		
+	{%endfor%}
+{%endfor%}
+
+//Display graph is there is enough data to show more than 1 point
+if(xData.length > 1){
+	window.addEventListener("load", drawTrends(xData, yData));
+}
+document.getElementById("message").innerHTML = "Leave dates optionally blank to see full trends";
+</script>
+{% endblock %}
+

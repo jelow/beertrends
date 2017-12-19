@@ -1,0 +1,63 @@
+{% extends 'beertrends/base.html' %}
+{% block content %}
+<h2>{{ user.get_username }}'s Profile</h2>
+<hr />
+<h3>Notifications</h3>
+<ul>
+    {% for note in notifications %}
+    <li id="{{note.id}}" > <strong>{{ note.brewery_name }}</strong> has a new beer <a target="_blank" href="http://www.brewerydb.com/beer/{{note.beer_id}}">{{ note.beer_name }}</a>! 
+        {% if note.beer_id in beer_id_list %} 
+            ✓  
+        {% else %}
+            <a href="#" id="{{note.beer_id}}link" onclick="add_beer('{{note.beer_id}}', '{% url 'userprofile:add_beer_to_wishlist' note.beer_id %}'); return false;">(Save beer to wishlist)</a> 
+        {% endif %}
+        <a href="#" onclick="remove_element('{{note.id}}', '{% url 'userprofile:dismiss_notification' note.id %}'); return false;">(Dismiss notification)</a>
+    </li>
+    {% endfor %}
+</ul>
+<h2>Beer Wishlist</h2>
+<ul id="beerlist">
+    {% for beer in beer_list %}
+    <li id="{{ beer.id }}" ><a target="_blank" href="http://www.brewerydb.com/beer/{{beer.id}}">{{ beer.name }}</a>
+        <a href="#" onclick="remove_element('{{ beer.id }}', '{% url 'userprofile:remove_beer_from_wishlist' beer.id %}'); return false;">(remove)</a>
+    </li>
+    {% endfor %}
+</ul>
+<h2>Brewery Watchlist</h2>
+<ul>
+    {% for brewery in brewery_list %}
+    <li id="{{ brewery.id }}" ><a target="_blank" href="http://www.brewerydb.com/brewery/{{brewery.id}}">{{ brewery.name }}</a>
+        <a href="#" onclick="remove_element('{{ brewery.id }}', '{% url 'userprofile:remove_brewery_from_watchlist' brewery.id %}'); return false;">(remove)</a>
+    </li>
+    {% endfor %}
+</ul>
+<script>
+function add_beer(beer_id, url) {
+    $.ajax({
+        url: url,
+        type: "GET",
+        success: function (resp) {
+            document.getElementById(beer_id + 'link').innerHTML = "✓";
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+            console.log(textStatus + " " + errorThrown);
+        }  
+    });
+}
+function remove_element(id, url) {
+    console.log(url);
+    $.ajax({
+        url: url,
+        type: "GET",
+        success: function (resp) {
+            response = resp;
+            var elem = document.getElementById(id);
+            elem.parentNode.removeChild(elem);
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+            console.log(textStatus + " " + errorThrown);
+        }  
+    });
+}
+</script>
+{% endblock %}

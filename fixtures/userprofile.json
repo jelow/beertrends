@@ -1,0 +1,50 @@
+[
+{
+    "model": "userprofile.userprofile",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "beer_wishlist": [],
+        "brewery_watchlist": []
+    }
+},
+{
+    "model": "userprofile.userprofile",
+    "pk": 2,
+    "fields": {
+        "user": 2,
+        "beer_wishlist": [],
+        "brewery_watchlist": ["1kHwaQ", "oZ1O3I", "LGSXeN"]
+    }
+},
+{
+    "model": "userprofile.notification",
+    "pk": 1,
+    "fields": {
+        "user": 2,
+        "seen": false,
+        "beer": "9YTjB0",
+        "brewery": "1kHwaQ"
+    }
+},
+{
+    "model": "userprofile.notification",
+    "pk": 2,
+    "fields": {
+        "user": 2,
+        "seen": false,
+        "beer": "DvTPYK",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "userprofile.notification",
+    "pk": 3,
+    "fields": {
+        "user": 2,
+        "seen": false,
+        "beer": "Dt73A0",
+        "brewery": "LGSXeN"
+    }
+}
+]

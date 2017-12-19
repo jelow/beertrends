@@ -1,0 +1,3885 @@
+[
+{
+    "model": "beerdata.brewery",
+    "pk": "1kHwaQ",
+    "fields": {
+        "name": "Main Street Brewing Company",
+        "lat": "49.2646786",
+        "lng": "-123.0992043"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "2vIPMI",
+    "fields": {
+        "name": "R&B Brewing Company",
+        "lat": "49.267381",
+        "lng": "-123.103715"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "5CVTMw",
+    "fields": {
+        "name": "Hearthstone Brewery",
+        "lat": "49.3237449",
+        "lng": "-123.1021631"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "AAj4GG",
+    "fields": {
+        "name": "Big River Brewing",
+        "lat": "49.134445",
+        "lng": "-123.0649957"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "aEBj0Q",
+    "fields": {
+        "name": "Granville Island Brewing Company",
+        "lat": "49.2707033",
+        "lng": "-123.1359011"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "aOC64s",
+    "fields": {
+        "name": "Bowen Island Brewing",
+        "lat": "49.2827291",
+        "lng": "-123.1207375"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "ASNS0q",
+    "fields": {
+        "name": "Steamworks Brewing Company",
+        "lat": "37.2723386",
+        "lng": "37.2723386"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "aywDqA",
+    "fields": {
+        "name": "Brassneck Brewery",
+        "lat": "49.2656785",
+        "lng": "-123.100784"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "bIk08d",
+    "fields": {
+        "name": "Johansson\u2019s Dining House and Restaurant",
+        "lat": "39.5753017",
+        "lng": "39.5753017"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "bpPaLC",
+    "fields": {
+        "name": "Stanley Park Brewing Co.",
+        "lat": "49.2827291",
+        "lng": "-123.1207375"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "bSzuQk",
+    "fields": {
+        "name": "Pacific Western Brewery",
+        "lat": "49.249219",
+        "lng": "-122.974695"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "C2PUJ9",
+    "fields": {
+        "name": "Steel Toad",
+        "lat": "49.2693876",
+        "lng": "-123.1032707"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "CmRwr8",
+    "fields": {
+        "name": "Strange Fellows Brewing",
+        "lat": "49.2723686",
+        "lng": "-123.0776691"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "DqlySI",
+    "fields": {
+        "name": "33 Acres Brewing Company",
+        "lat": "49.2637804",
+        "lng": "-123.1053533"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "gvFuE2",
+    "fields": {
+        "name": "Bridge Brewing Company",
+        "lat": "49.3097411",
+        "lng": "-123.0339211"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "HzgkCR",
+    "fields": {
+        "name": "Big Rock Urban Brewery",
+        "lat": "49.2674915",
+        "lng": "-123.110776"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "INXmN1",
+    "fields": {
+        "name": "Fuggles and Warlock Craftworks",
+        "lat": "49.1294955",
+        "lng": "-123.095493"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "jOPm0a",
+    "fields": {
+        "name": "Marine Pub & Brewhouse",
+        "lat": "49.2055099",
+        "lng": "-122.979689"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "jxwn2n",
+    "fields": {
+        "name": "Main Street Brewing",
+        "lat": "49.2646786",
+        "lng": "-123.0992043"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "kEPLku",
+    "fields": {
+        "name": "Postmark Brewing",
+        "lat": "49.2843192",
+        "lng": "-123.095659"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "LGSXeN",
+    "fields": {
+        "name": "Powell Street Craft Brewery",
+        "lat": "49.2833285",
+        "lng": "-123.075884"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "ouUm8w",
+    "fields": {
+        "name": "Storm Brewing",
+        "lat": "49.2821426",
+        "lng": "-123.0703845"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "oZ1O3I",
+    "fields": {
+        "name": "Parallel 49 Brewing Company",
+        "lat": "49.2839053",
+        "lng": "-123.0644391"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "RNHfY1",
+    "fields": {
+        "name": "Dockside Brewing",
+        "lat": "49.26978",
+        "lng": "-123.1322229"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "SJ06xd",
+    "fields": {
+        "name": "Green Leaf Brewing Co.",
+        "lat": "49.310644",
+        "lng": "-123.0815601"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "SmLlGS",
+    "fields": {
+        "name": "Red Truck Beer Company",
+        "lat": "49.32381",
+        "lng": "-123.102109"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "VdpAHg",
+    "fields": {
+        "name": "Doan's Craft Brewing Company",
+        "lat": "49.2841859",
+        "lng": "-123.0672742"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "VJ56AP",
+    "fields": {
+        "name": "Yaletown Brewing",
+        "lat": "49.2754449",
+        "lng": "-123.1207075"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "VV0cFh",
+    "fields": {
+        "name": "Taylor's Crossing Brewing",
+        "lat": "49.3236808",
+        "lng": "-123.1025507"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "vX1ujj",
+    "fields": {
+        "name": "Steel & Oak Brewing Co.",
+        "lat": "49.2021832",
+        "lng": "-122.9272102"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "Wlif0F",
+    "fields": {
+        "name": "Dageraad Brewing",
+        "lat": "49.2560299",
+        "lng": "-122.9217409"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "X3N2kp",
+    "fields": {
+        "name": "Faculty Brewing Co",
+        "lat": "49.2686702",
+        "lng": "-123.1045352"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "y6OQwH",
+    "fields": {
+        "name": "Dix Barbecue & Brewery",
+        "lat": "49.2767209",
+        "lng": "-123.1153004"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "Y8edrP",
+    "fields": {
+        "name": "Steamworks",
+        "lat": "49.2847317",
+        "lng": "-123.1106905"
+    }
+},
+{
+    "model": "beerdata.brewery",
+    "pk": "zXqAje",
+    "fields": {
+        "name": "Bomber Brewing",
+        "lat": "49.2775367",
+        "lng": "-123.0745042"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "02rQpe",
+    "fields": {
+        "name": "Pale Ale",
+        "desc": null,
+        "ibu": 31,
+        "abv": "5.29",
+        "srm": 10,
+        "og": "1.06",
+        "fg": "1.02",
+        "body": "0.49",
+        "label": null,
+        "brewery": "AAj4GG"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "0rQw0S",
+    "fields": {
+        "name": "Cypress Honey Lager",
+        "desc": null,
+        "ibu": 9,
+        "abv": "4.70",
+        "srm": 4,
+        "og": "1.11",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "0uh0qM",
+    "fields": {
+        "name": "Rye Stout",
+        "desc": "As a Pacific Northwest Rye Stout, you can get an idea of what we brewed here. It\u2019s dark, its roasty and has a hint of chocolate followed by hop bitterness and the spiciness of rye! It puts a smile on our face at Doan\u2019s, so please enjoy!",
+        "ibu": 53,
+        "abv": "6.20",
+        "srm": 40,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.67",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/0uh0qM/upload_7hnkyQ-large.png",
+        "brewery": "VdpAHg"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "0Ve9dJ",
+    "fields": {
+        "name": "Royal City Ale",
+        "desc": "Lightly dry-hopped for a gentle floral aroma, this American Blonde Ale is light in colour and medium bodied to suit. A simple mix of classic pale malts paired with a mild bitterness impart this beer with drinkability and easy going flavour components.",
+        "ibu": 20,
+        "abv": "5.00",
+        "srm": 4,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "vX1ujj"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "0wg0v2",
+    "fields": {
+        "name": "Highland Scottish Ale",
+        "desc": "While hugely popular in Scotland, this style of beer escapes most North Americans. Designed and brewed by the Scottish punk rocker David \u00c3\u00a2\u00e2?\u00ac\u00c5?Malty\u00c3\u00a2\u00e2?\u00ac\u00c2\u009d Macanulty, this creamy, nutty, malty, dark ale is true to its origins. David drives James crazy over this beer, insisting on rigid fermentation temperatures, traditional mild hops for bittering, and even some weird caramelizing ritual as the kettle is being filled. The beer continues to undergo subtle evolutionary changes because the stubborn Scottish bastard will never be satisfied.",
+        "ibu": 37,
+        "abv": "9.67",
+        "srm": 8,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "ouUm8w"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "190B0a",
+    "fields": {
+        "name": "Amber",
+        "desc": null,
+        "ibu": 45,
+        "abv": "5.20",
+        "srm": 12,
+        "og": "1.11",
+        "fg": "1.07",
+        "body": null,
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "1Emtji",
+    "fields": {
+        "name": "Hoppelganger IPA",
+        "desc": "R&B\u2019s Hoppelganger IPA is a Northwest style India Pale Ale, created for the true beer connoisseur. An assertive blend of Crystal, Columbus, Chinook, Mt. Hood, and Cascade Hops, is added to premium English, French-Belgian, and Canadian malts to create a fresh floral aroma and generous malt flavour, so emblematic of true Northwest-style I.P.A.s. Hoppelganger\u2019s clean and slightly sweet finish is followed by an aggressive hop bitterness. At 45 IBU\u2019s, this beer is definitely\u2026NOT FOR THE FAINT OF TONGUE!!!",
+        "ibu": 45,
+        "abv": "6.00",
+        "srm": 14,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "1vSr0j",
+    "fields": {
+        "name": "Lions Winter Ale",
+        "desc": "Our Lions Winter Ale combines premium malt with aromatic specialty hops, but it's the vanilla-like flavor of this robust ale that makes it a winter favourite. Food pairing: Sweeter full-flavoured foods AMD cream based sauces.",
+        "ibu": 22,
+        "abv": "5.50",
+        "srm": 11,
+        "og": "1.13",
+        "fg": "1.09",
+        "body": "1.00",
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "2BFwoJ",
+    "fields": {
+        "name": "Two Lions Pale Ale",
+        "desc": null,
+        "ibu": 32,
+        "abv": "5.03",
+        "srm": 6,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.34",
+        "label": null,
+        "brewery": "VV0cFh"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "2InX3N",
+    "fields": {
+        "name": "Cumulus Lupulus",
+        "desc": "Cumulus Lupulus is a super juicy, triple dry-hopped, tart session ale showcasing epic flavours of orange, grapefruit, mango, and passion fruit",
+        "ibu": 12,
+        "abv": "4.30",
+        "srm": 16,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "2QVOnL",
+    "fields": {
+        "name": "Cariboo Light Lager",
+        "desc": "Light Lager: Dry character with no aftertaste and no bitter notes\r\nThis is destined to be the number one selling light beer in BC. Our Light Lager is a low alcohol replica of Cariboo\u2019s Award Winning Genuine Draft, without compromising that same satisfying finish. The 4% alcohol brew is a nicely priced, local, fresh beer, made from pure BC spring water for maximum refreshment, any time.\r\n\r\nClear amber color with a medium white head and a light aroma of toasted malt with a hint of earthy hops. A flavorful light beer that is as fitting in a romantic dinner setting as it is with the fellas getting your low-cal hose on.",
+        "ibu": 8,
+        "abv": "4.00",
+        "srm": 3,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/2QVOnL/upload_kRNj6R-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "2sLpmC",
+    "fields": {
+        "name": "Fresh Hop",
+        "desc": "Natural | Earthy | Graceful | One of the best times of year. This Pale Ale is brewed in celebration of hops with the addition of freshly picked Chinook hops that give the beer a fantastic clean grassy aroma and flavour.",
+        "ibu": 34,
+        "abv": "4.80",
+        "srm": 10,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "2Xblev",
+    "fields": {
+        "name": "Shut Out Stout",
+        "desc": "No need to bolt the doors or bar the windows \u2013 nothing's getting past this full-bodied stout! Through thick and thin, it holds strong and steadfast, with rich roasted malts as its backbone. Warming notes of coffee and biscuit are all that may penetrate its dark facade... some dare not speak its name aloud, but we think we know what's coming... the shut-out.",
+        "ibu": 45,
+        "abv": "6.00",
+        "srm": 40,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.36",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "34VbOX",
+    "fields": {
+        "name": "K\u00f6lsch",
+        "desc": "K\u00f6lsch-Style Ale is fermented like an ale but matured like a lager, it goes down very easy, dry with a low but balanced bitterness and a light to medium body with a very delicate flavour. Our K\u00f6lsch has a clean, malty, chardonnay-like aroma with a dry, refreshing finish",
+        "ibu": 22,
+        "abv": "4.80",
+        "srm": 6,
+        "og": "1.05",
+        "fg": "1.02",
+        "body": "0.44",
+        "label": null,
+        "brewery": "ASNS0q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "3GuuEX",
+    "fields": {
+        "name": "White",
+        "desc": "With a citrusy aroma and a creamy palate, Dageraad White is our take on the spiced wheat ales or \u201cwitbiers\u201d traditionally brewed in the Brabant region of Belgium. Flavourful but drinkable, Dageraad White pairs excellently with any dish that benefits from a spicy hit of citrus, such as fish or salad.\r\nDageraad White is fermented with Belgian yeast and bottle conditioned for natural carbonation, and an extra layer of complexity.  Pour with care to leave the yeast sediment in the bottle.",
+        "ibu": 10,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Wlif0F"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "3lgd6s",
+    "fields": {
+        "name": "Umeboshi Sour",
+        "desc": "Our new Japanese Plum infused beer starts with a clean malt base which is then kettle soured and fermented with over 500lb of sour plums, before finally being generously dry hopped with Nelson Sauvin hops.  The resulting beer pours a rose gold  and is sure to delight the senses with its distinct aroma, tart flavor and satisfying finish.",
+        "ibu": 8,
+        "abv": "4.20",
+        "srm": 31,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "3NtS08",
+    "fields": {
+        "name": "Vow Of Silence",
+        "desc": null,
+        "ibu": 39,
+        "abv": "10.00",
+        "srm": 7,
+        "og": "1.08",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/3NtS08/upload_qdMnll-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "3qwzi4",
+    "fields": {
+        "name": "Social Stout",
+        "desc": "A collaboration with Ninety Nine Rugby Club. Perfectly balanced body with notes of chocolate, coffee and caramel.",
+        "ibu": 32,
+        "abv": "4.80",
+        "srm": 40,
+        "og": "1.08",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "4BmCZn",
+    "fields": {
+        "name": "Red Eye Lager",
+        "desc": null,
+        "ibu": 15,
+        "abv": "6.40",
+        "srm": 3,
+        "og": "1.11",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "4OtXhY",
+    "fields": {
+        "name": "Coal Porter",
+        "desc": "As you look out over Vancouver's Coal Harbour, relax with this creamy delight. Don't let the colour fool you - this porter is rich but not overpowering with a head that lingers all the way down the glass. Just about anything goes with our Coal Porter, and you don't have to belong to \\High Society\"to enjoy a glass with oysters.\"\"\"",
+        "ibu": 26,
+        "abv": "4.73",
+        "srm": 23,
+        "og": "1.08",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "4S9cXS",
+    "fields": {
+        "name": "Talisman",
+        "desc": "The Siren of the Seas is a fickle creature: benevolent or spiteful, she can bestow a safe passage & a bountiful catch, or provoke storms & shipwrecks. Sailors have long cast gifts of flowers, food or trinkets into the sea in exchange for good fortune. Talisman \u2013 our delicately dry-hopped & golden-hued ale with its tropical & citrusy aroma \u2013 may be just the thing to encourage the Siren\u2019s blessing.",
+        "ibu": 29,
+        "abv": "4.20",
+        "srm": 7,
+        "og": "1.06",
+        "fg": "1.03",
+        "body": "0.72",
+        "label": null,
+        "brewery": "CmRwr8"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "52PxY2",
+    "fields": {
+        "name": "Pilsner",
+        "desc": "Classic | Refreshing | Bright | Our new crisp, light bodied Pilsner has a wonderful floral aroma, bright amber body, and brilliant herbal notes on the finish. A classic Pilsner from a modern brewery.",
+        "ibu": 24,
+        "abv": "4.80",
+        "srm": 7,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.36",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "5dOKqN",
+    "fields": {
+        "name": "Blonde",
+        "desc": "Craft | Crisp | Clean | A crisp, clean, craft Blonde with a slight spicy, floral aroma. Your go-to session beer.\r\n#bluecan",
+        "ibu": 18,
+        "abv": "4.20",
+        "srm": 3,
+        "og": "1.07",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "5HghDg",
+    "fields": {
+        "name": "Azacca Pale Ale",
+        "desc": "This light, golden colored Pale Ale is single hopped with the new kid hop on the block - Azacca hops, straight from good \u2018ol Yakima Valley. Big citrus notes, mango, and pine.",
+        "ibu": 36,
+        "abv": "6.00",
+        "srm": 4,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/5HghDg/upload_BJ9EHa-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "5KahQY",
+    "fields": {
+        "name": "Pumpkin Ale",
+        "desc": "A malty spiced ale brewed with pumpkin pie spices & 100 lbs of local pumpkin mash.  Our most popular seasonal ale.",
+        "ibu": 16,
+        "abv": "6.50",
+        "srm": 40,
+        "og": "1.11",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "5P5Ag9",
+    "fields": {
+        "name": "Dry Irish Stout",
+        "desc": null,
+        "ibu": 39,
+        "abv": "4.50",
+        "srm": 40,
+        "og": "1.04",
+        "fg": "1.01",
+        "body": "0.21",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "60laGF",
+    "fields": {
+        "name": "Dark Lager",
+        "desc": null,
+        "ibu": 27,
+        "abv": "5.00",
+        "srm": 15,
+        "og": "1.10",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "vX1ujj"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "6ieeGL",
+    "fields": {
+        "name": "Sunsetter Peach",
+        "desc": "Ripe peach flavor and bold citra hops.  A refreshing tasting unfiltered summer ale.",
+        "ibu": 16,
+        "abv": "4.80",
+        "srm": 3,
+        "og": "1.11",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "bpPaLC"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "6pOwUt",
+    "fields": {
+        "name": "Iceholes Celebration Lager",
+        "desc": "R&B Brewing Co. Iceholes Celebration Lager is a medium bodied beer, gold in colour with a spicy aroma. Brewed in the tradition of a European Pilsner, Iceholes Lager has a snappy hop flavour and a clean dry finish creating a truly refreshing beer. Iceholes Celebration Lager will be available in 650ml bottles for a limited time only starting February 2, 2010. Consumers can purchase the specialty beer at independent beer stores and local Vancouver restaurants during the month of February.",
+        "ibu": 24,
+        "abv": "5.00",
+        "srm": 2,
+        "og": "1.09",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "6q6yme",
+    "fields": {
+        "name": "Gypsy Tears Ruby Ale",
+        "desc": "Give me your tears, Gypsy! This ruby red ale will mesmerize you with a caravan of malt flavour and entrancing hop presence.\r\n\r\nA ruby red coloured ale with a rich caramel malt flavour and a burst of West Coast hop aroma. Using only late hop additions and dry-hopping, the bitterness is restrained while the hop flavour and aroma are large.",
+        "ibu": 40,
+        "abv": "6.00",
+        "srm": 16,
+        "og": "1.08",
+        "fg": "1.03",
+        "body": "0.81",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/6q6yme/upload_J6A4op-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "6S2yld",
+    "fields": {
+        "name": "Johnston Pilsener",
+        "desc": null,
+        "ibu": 39,
+        "abv": "4.90",
+        "srm": 4,
+        "og": "1.10",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "RNHfY1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "6VJ3bX",
+    "fields": {
+        "name": "Altbier",
+        "desc": "We feel the Alt is the German version of a Pale Ale. With an ability to balance the malt character with a slight but subtle presence of German Noble hops, the Alt is able to deliver drinkability yet provide depth and complexity just like a solid Pale Ale.",
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 19,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/6VJ3bX/upload_al0S30-large.png",
+        "brewery": "VdpAHg"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "6ysxRP",
+    "fields": {
+        "name": "Traditional English Ale",
+        "desc": null,
+        "ibu": 31,
+        "abv": "5.10",
+        "srm": 11,
+        "og": "1.13",
+        "fg": "1.09",
+        "body": "1.00",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "7lrzZU",
+    "fields": {
+        "name": "Tropical Lager",
+        "desc": null,
+        "ibu": 13,
+        "abv": "4.72",
+        "srm": 6,
+        "og": "1.08",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "y6OQwH"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "7r74U4",
+    "fields": {
+        "name": "Lions Gate Lager",
+        "desc": "While ales are fermented for relatively short periods of time at room temperature, lagers employ a special variety of yeast and much cooler fermentation temperatures to achieve their truly clean, dry flavour profile. Our Lion's Gate Lager has a light body, a very crisp palate and a soft, hop finish, which is imparted by the exquisitely gentle Czech Saaz hop variety. The Lions would approve.",
+        "ibu": 13,
+        "abv": "4.50",
+        "srm": 3,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.30",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "7yy30d",
+    "fields": {
+        "name": "False Creek Raspberry Ale",
+        "desc": "Fresh raspberries, without being too sweet. Refreshingly tart with enough pale malt character, so it tastes like an ale, not a wine cooler.",
+        "ibu": 17,
+        "abv": "4.17",
+        "srm": 5,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "817RYW",
+    "fields": {
+        "name": "TNT Strong Malt",
+        "desc": "Full Flavored Lager: Strong malty aroma with sweet notes\r\n\r\nIf you like an explosion of taste in your mouth, TNT Strong Malt is an amber-coloured manly brew and it is a long-time favourite in B.C. \u2013 guaranteed to blow away any thirst.\r\n\r\nTNT is slow-brewed \u2014 toasted nectars with tones of floral hops and suggestions of sugary malt. Their subtle, but deep flavour give them a rich, multi-layered character reminiscent of nights of apr\u00e8s ski and chalet fires. Great with spicy food or roast chicken.",
+        "ibu": 97,
+        "abv": "6.00",
+        "srm": 32,
+        "og": "1.08",
+        "fg": "1.04",
+        "body": "0.97",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/817RYW/upload_1mzjeW-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "8a86Sn",
+    "fields": {
+        "name": "Winter White Stout",
+        "desc": null,
+        "ibu": 33,
+        "abv": "5.10",
+        "srm": 40,
+        "og": "1.06",
+        "fg": "1.02",
+        "body": "0.47",
+        "label": null,
+        "brewery": "ASNS0q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "8IV0Op",
+    "fields": {
+        "name": "Old Jalopy Pale Ale",
+        "desc": "A twist on a traditional English Pale Ale. English pale and caramel malts combined with the spicy, citrusy, and floral notes of the North American Hop gives this ale a very distinct sensory profile. (Regular)",
+        "ibu": 40,
+        "abv": "5.50",
+        "srm": 12,
+        "og": "1.12",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/8IV0Op/upload_gvBh0g-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "8yVUlJ",
+    "fields": {
+        "name": "Salty Scot",
+        "desc": "We put the kettle on for long boil and this Scottish wee heavy is what we got. Rich caramel is complemented by sea salt for a complex, intense flavour. Another? Aye.\r\n\r\nBuilding upon a Scottish \"Wee Heavy\", this unique beer was developed to provide a strong caramel malt flavour with enough salt to give it a bit of a bite. Stronger in alcohol, this beer starts off sweet but remains fairly light to drink.",
+        "ibu": 17,
+        "abv": "7.50",
+        "srm": 27,
+        "og": "1.05",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/8yVUlJ/upload_IRVE2P-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "8Zgt5J",
+    "fields": {
+        "name": "Milk Stout - Nitrogenated",
+        "desc": null,
+        "ibu": 21,
+        "abv": "5.00",
+        "srm": 40,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.78",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/8Zgt5J/upload_wXcPGy-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "95h0NL",
+    "fields": {
+        "name": "Dry Stout",
+        "desc": null,
+        "ibu": 45,
+        "abv": "8.00",
+        "srm": 40,
+        "og": "1.08",
+        "fg": "1.01",
+        "body": "0.36",
+        "label": null,
+        "brewery": "AAj4GG"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "9Th9KW",
+    "fields": {
+        "name": "Summer Ale",
+        "desc": "Crisp and thirst quenching with a distinct citrus aroma, this wheat ale gets a refreshing kick from sweet orange peel, lemon peel and grains of paradise. The balance of bright citrus, fruity hops, and spice make this lively brew perfect for any summer day. Perfect for poolside chilling or more intrepid adventures.",
+        "ibu": 20,
+        "abv": "4.80",
+        "srm": 2,
+        "og": "1.11",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": null,
+        "brewery": "ASNS0q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "9uGVY9",
+    "fields": {
+        "name": "Island Lager",
+        "desc": null,
+        "ibu": 7,
+        "abv": "5.00",
+        "srm": 6,
+        "og": "1.11",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "9YTjB0",
+    "fields": {
+        "name": "Checkpoint Charlie Berliner Weisse",
+        "desc": "Checkpoint Charlie is a sour yet refreshing ale characterized by its low ABV. Kettle soured to give a sour yet clean beer, our take on a Berliner Weisse uses Hallertau Blanc hops to give a citrusy, grape-like flavour and aroma.",
+        "ibu": 15,
+        "abv": "4.00",
+        "srm": 2,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.87",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/9YTjB0/upload_nwjpp6-large.png",
+        "brewery": "1kHwaQ"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "9zVaSj",
+    "fields": {
+        "name": "Blitzen Christmas Ale",
+        "desc": "A strong, fruity, belgian-style trippel 8.5% alc./vol.\n\nOur aptly named Christmas Ale is based on the strong beers traditionally brewed by Belgium's trappist monasteries. Trippel is typically at least 8% alc./vol. and has a light golden colour. Because of its high strength this beer has an intensely fruity palate. Up front it has a honeyish sweetness but the finish is dry and champagne-like. Most weary Christmas shoppers would be well advised to benefit from the warmth and 'ho-ho-ho factor' that only a beer of the Biltzen's calibre can provide.",
+        "ibu": 47,
+        "abv": "8.50",
+        "srm": 33,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "a70DOO",
+    "fields": {
+        "name": "Old Boy",
+        "desc": "A pint of your finest, kind sir! A refined, balanced ale for the discerning beer drinker. Raise your glass.\r\n\r\nRich malt flavours of caramel, toffee and light chocolate. This ale is an ode to the pub beers of England. Well balanced flavours of malts and hops make this beer a classic.",
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 22,
+        "og": "1.00",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/a70DOO/upload_eEaL8O-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "APufBS",
+    "fields": {
+        "name": "Tropical Tart Ale",
+        "desc": "Our new tropical tart ale is a true delight for the senses, pouring a beautiful deep hued gold, and leading with intense tropical fruit aromas. Superfruit Flavours of passionfruit and pomegranate are balanced with an unmistakable thirst quenching tartness; whisking you away to a care-free island paradise. Best enjoyed near a body of water.",
+        "ibu": 15,
+        "abv": "4.90",
+        "srm": 50,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "AQtWNU",
+    "fields": {
+        "name": "Azacca Ale",
+        "desc": "This straw coloured ale is light and refreshing with hints of citrus from the use of Azacca Hops. A great beer for those wanting something lighter than our regular ales.",
+        "ibu": 32,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.13",
+        "fg": "1.09",
+        "body": "1.00",
+        "label": null,
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "ASIJGO",
+    "fields": {
+        "name": "Mandarina Wheat",
+        "desc": "The combination of a higher carbonation, orange peel, and Manderina Hops gives this American Wheat Ale its festive Winter aroma and flavour.",
+        "ibu": 15,
+        "abv": "5.30",
+        "srm": 38,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.24",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "AsIjyr",
+    "fields": {
+        "name": "McCool's Hazelnut Porter",
+        "desc": "McCool\u2019s Hazelnut Porter is full bodied yet extremely drinkable. Notes of coffee, roasted malt and a pleasant, but not overwhelming background of hazelnuts. Perfect for that bright yet blustery fall afternoon.",
+        "ibu": 18,
+        "abv": "5.00",
+        "srm": 30,
+        "og": "1.13",
+        "fg": "1.09",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/AsIjyr/upload_VdZyEq-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "b2lEBE",
+    "fields": {
+        "name": "Red Truck Ale",
+        "desc": null,
+        "ibu": 34,
+        "abv": "5.26",
+        "srm": 18,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.24",
+        "label": null,
+        "brewery": "y6OQwH"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "b80J5o",
+    "fields": {
+        "name": "Empress India Pale Ale",
+        "desc": "During the heyday of the British Empire, India Pale Ale was born as a strong pale ale brewed especially to endure the rigors of the long journey to the colonies. In order to guard against spoilage, I.P.A. was brewed with a high alcohol content and with liberal amounts of hops, which act as a natural preservative. This ale's golden amber colour only hints at its full-bodied flavour. Its sumptuous maltiness is tempered by a goodly amount of bitterness and a mouth-filling hop flavour. In order to finish our I.P.A. with a truly fresh hop bouquet, we dry hop this ale in the serving tank with both East Kent Goldings and Mount Hood hops.",
+        "ibu": 76,
+        "abv": "9.53",
+        "srm": 13,
+        "og": "1.05",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "BaRLCc",
+    "fields": {
+        "name": "Superpest Double IPA",
+        "desc": "BRONZE MEDAL WINNER - IMPERIAL IPAS -  BC BEER AWARDS 2014!\r\n\r\n\"Lead by example\" is no forced cliche to the Superpest - it's an innate ethic.  In the bottle, that directive is deftly delivered by the great Centennial, Chinnok, and Columbus hops of the Pacific Northwest.  Only BC-malted 2-row barley is good enough to echo the Superpest name, so that's what we use...",
+        "ibu": 90,
+        "abv": "7.50",
+        "srm": 8,
+        "og": "1.10",
+        "fg": "1.04",
+        "body": "0.99",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "bc08cY",
+    "fields": {
+        "name": "Hopper",
+        "desc": "An American Brown Ale mixed with citric West Coast hops.",
+        "ibu": 65,
+        "abv": "6.50",
+        "srm": 26,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "INXmN1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "bdeSj7",
+    "fields": {
+        "name": "Burnabarian",
+        "desc": "Great for drinking on a sunny patio or to knocking back after a long day\u2019s work, Burnabarian is a table beer, or Belgian-style session ale. Named for the city that Dageraad calls home, Burnabarian is lightly spiced with coriander and is brewed with oats for a silky mouthfeel.",
+        "ibu": 12,
+        "abv": "4.50",
+        "srm": 36,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Wlif0F"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "BE5WM0",
+    "fields": {
+        "name": "Traditional India Pale Ale",
+        "desc": null,
+        "ibu": 37,
+        "abv": "4.93",
+        "srm": 14,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "VV0cFh"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "BncXOD",
+    "fields": {
+        "name": "Nagila Pale Ale",
+        "desc": "One of the most brewed styles in the world, Pale Ale usually reflects the place where it is made. With Pacific Northwest hops, Canadian prairie barley, and a traditional English ale yeast, ours is balanced with a depth of malt character and refreshing citrusy hop flavour.",
+        "ibu": 39,
+        "abv": "4.67",
+        "srm": 9,
+        "og": "1.12",
+        "fg": "1.09",
+        "body": "1.00",
+        "label": null,
+        "brewery": "VJ56AP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "BOVp7K",
+    "fields": {
+        "name": "33 Acres of Darkness",
+        "desc": "If you\u2019re the type who likes to judge a beer by it\u2019s colour, 33 Acres of Darkness will surely surprise. While most equate heaviness with flavour this Schwarzbier strives to bring tantalizing taste beyond the usual weight.",
+        "ibu": 20,
+        "abv": "5.00",
+        "srm": 19,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/BOVp7K/upload_Gc2Ohs-large.png",
+        "brewery": "DqlySI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "BTKyL2",
+    "fields": {
+        "name": "Canterbury Dark Mild Lager",
+        "desc": "Specialty Lager: Caramel bodied with delicate aroma hops and a pleasant finish\r\nCanada\u2019s first copper-coloured lager, Canterbury Dark Mild is brewed with the finest hops, yeast and most importantly, two-row malted barley. This distinctive beer is an homage to the finest of British brews and a favourite of those want mouth-filling flavour when they\u2019re in the pub or at home.\r\n\r\nCanterbury features a smooth, mature taste to complement its bold, rich colour while retaining a lager\u2019s traditional, fresh finish. This classically brewed beer is a tad sweeter than its pale pilsner cousins and a natural complement to a good Irish Stew or other full-bodied fare. The ideal match is most pub grub like fish and chips or steak and kidney pie",
+        "ibu": 22,
+        "abv": "5.00",
+        "srm": 23,
+        "og": "1.04",
+        "fg": "1.01",
+        "body": "0.14",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/BTKyL2/upload_MSgGXD-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "bZOF0Z",
+    "fields": {
+        "name": "Ode to Citra Pale Ale",
+        "desc": "Citra Hops are the star in this beer. We've combined just the right ratio of pale malt and dark crystal malt to highlight the instence tropical fruit characters of the Citra Hop.",
+        "ibu": 40,
+        "abv": "5.50",
+        "srm": 12,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/bZOF0Z/upload_hvkWZq-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "cedGjv",
+    "fields": {
+        "name": "Raspberry",
+        "desc": "Wild | Summer | Tart | Local all natural raspberry puree gives this summer vibes Session Ale a refreshingly tart flavour and a bold fruit finish.",
+        "ibu": 17,
+        "abv": "4.70",
+        "srm": 41,
+        "og": "1.08",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "cMaEz5",
+    "fields": {
+        "name": "Vienna Lager",
+        "desc": null,
+        "ibu": 15,
+        "abv": "4.52",
+        "srm": 5,
+        "og": "1.10",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "AAj4GG"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "CQj1Xp",
+    "fields": {
+        "name": "Schadenfreude Pumpkin Oktoberfest",
+        "desc": "We\u2019ve carved out a pumpkin Oktoberfest even Ichabod Crane would love. This hearty, malty lager is warmed by the mighty pumpkin and lifted with notes of cinnamon, nutmeg, all-spice and ginger.\r\n\r\nBrewed as a traditional Oktoberfest Lager, this beer sets itself apart from other pumpkin ales by being light and refreshing. Pumpkin is used in the mash along with traditional pumpkin pie spicing in the brew kettle.",
+        "ibu": 27,
+        "abv": "5.00",
+        "srm": 47,
+        "og": "1.08",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "D1PIFH",
+    "fields": {
+        "name": "Stolen Bike Lager",
+        "desc": "This pilsner style lager is a medium bodied beer, gold in colour with a spicy aroma. Brewed in the tradition of a European Pilsner, the Bohemian Lager has a snappy hop flavour and a clean dry finish creating a truly refreshing beer.",
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 4,
+        "og": "1.10",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "dB9k9t",
+    "fields": {
+        "name": "Pelican Bay Brown",
+        "desc": null,
+        "ibu": 30,
+        "abv": "4.21",
+        "srm": 21,
+        "og": "1.06",
+        "fg": "1.03",
+        "body": "0.73",
+        "label": null,
+        "brewery": "RNHfY1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "dGOp4T",
+    "fields": {
+        "name": "Precipitation Pilsner",
+        "desc": "A true North German Style Pilsner. Light in body and packed full of Czech Saaz hops. The distinctive Pilsner aroma and dry, refreshing taste make a great accompaniment to a hot Vanouver day.",
+        "ibu": 26,
+        "abv": "4.31",
+        "srm": 4,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.07",
+        "label": null,
+        "brewery": "ouUm8w"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "DMU2Kf",
+    "fields": {
+        "name": "Red Truck Lager",
+        "desc": null,
+        "ibu": 9,
+        "abv": "4.69",
+        "srm": 3,
+        "og": "1.08",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "y6OQwH"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "DRj7FF",
+    "fields": {
+        "name": "Oatmeal Stout",
+        "desc": "There are some things in life that require a certain sense of bravado: these might include ordering a quadruple espresso, deciding to sleep without a nightlight, or choosing to live in a region of the continent that is gradually sinking into the Pacific Ocean. If you're no longer scared of the dark, then there's no reason to be afraid of our stout. A generous portion of rolled oats and lots of black roasted barley give this beer a warm, roasted nose, and a distinct dryness that succumbs to waves of lingering satisfaction.",
+        "ibu": 30,
+        "abv": "4.04",
+        "srm": 20,
+        "og": "1.06",
+        "fg": "1.03",
+        "body": "0.65",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "dSizA1",
+    "fields": {
+        "name": "IPA",
+        "desc": null,
+        "ibu": 60,
+        "abv": "6.60",
+        "srm": 6,
+        "og": "1.11",
+        "fg": "1.06",
+        "body": null,
+        "label": null,
+        "brewery": "CmRwr8"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Dt73A0",
+    "fields": {
+        "name": "White IPA (WIPA)",
+        "desc": "Wheat and Pilsner malts combined with sweet orange peel and Citra hops that give you a slightly bitter but yet very refreshing summer feel any day of the year..",
+        "ibu": 56,
+        "abv": "6.00",
+        "srm": 11,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.15",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/Dt73A0/upload_Tpu0hj-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "dudHCi",
+    "fields": {
+        "name": "White Angel IPA",
+        "desc": null,
+        "ibu": 60,
+        "abv": "6.90",
+        "srm": 12,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.27",
+        "label": null,
+        "brewery": "ASNS0q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Dviwlz",
+    "fields": {
+        "name": "Bean Me Up",
+        "desc": null,
+        "ibu": 24,
+        "abv": "5.70",
+        "srm": 40,
+        "og": "1.08",
+        "fg": "1.04",
+        "body": "0.88",
+        "label": null,
+        "brewery": "INXmN1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "DvTPYK",
+    "fields": {
+        "name": "Filthy Dirty West Coast IPA",
+        "desc": null,
+        "ibu": 53,
+        "abv": "7.20",
+        "srm": 8,
+        "og": "1.12",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "DWQYLH",
+    "fields": {
+        "name": "Le  Vagabond",
+        "desc": "This straw coloured ale features notes of strawberry, citrus, and spice, finishing dry with the unique character of french saison yeast. Tasting Lounge Only.",
+        "ibu": 25,
+        "abv": "6.00",
+        "srm": 9,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/DWQYLH/upload_wyb05U-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "dYVht9",
+    "fields": {
+        "name": "Bohemian Lager",
+        "desc": "R&B\u2019s Bohemian Lager is a medium bodied beer with a golden colour and spicy aroma. Blending Caramel Pilsen malts with 2-Row and Pale Ale malts, this European-style pilsner is modestly hopped with Perle, Czech Saaz, and Mt. Hood hops, giving it a slight North American essence. We culture only the finest California-style lager yeast and ferment at a slightly lower temperature to create a snappy hop flavour with a clean, dry finish. Finally, a real lager for the beer nerd in all of us!",
+        "ibu": 24,
+        "abv": "5.00",
+        "srm": 14,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "EgJ38W",
+    "fields": {
+        "name": "Pilsner",
+        "desc": null,
+        "ibu": 36,
+        "abv": "5.62",
+        "srm": 3,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.01",
+        "label": null,
+        "brewery": "AAj4GG"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "ekECwm",
+    "fields": {
+        "name": "Cariboo Genuine Draft",
+        "desc": "Cariboo Genuine Draft is a testament to our brewery\u2019s ties to B.C. history, hence the Spirit Of The North Since 1957 slogan. Cariboo was our pioneering beer and today it still reflects the original name of the brewery and represents the region responsible for each and every delicious beer we produce. To celebrate and honour the region, Cariboo Brewing has committed to planting one million trees by 2020 to replace those lost to forest fires and pine beetles, in partnership with the Province\u2019s Forests for Tomorrow program.\r\n\r\nWell Balanced Lager: Slightly malty with some residual sweetness and a crisp, clean finish.\r\n\r\nCariboo Genuine Draft is a smooth, mild beer that\u2019s perfect for watching the game or sharing good times with friends. Straw-coloured, light on the palate, a frosty mug of this brew is perfect for a summer afternoon or after a steaming winter sauna. Great with spicy food or roast chicken",
+        "ibu": 11,
+        "abv": "5.50",
+        "srm": 3,
+        "og": "1.10",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/ekECwm/upload_qsJqWu-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "erKZoM",
+    "fields": {
+        "name": "Choqlette Porter",
+        "desc": "Great taste is more than the beer in this bottle. It\u2019s classy and quirky and vibrant and subtle. It\u2019s chaos and balance, inately in sync. It\u2019s not something you learn, it\u2019s a second instinct.\r\n\r\nIt\u2019s old worldly charm with a modern day spin. Rich roasted malts with chocolate a l\u2019ancienne. London and Paris at home in one drink. It\u2019s just a few of our favourite things.",
+        "ibu": 18,
+        "abv": "5.50",
+        "srm": 27,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "eUykxk",
+    "fields": {
+        "name": "Baden Powell Cream Ale",
+        "desc": null,
+        "ibu": 15,
+        "abv": "4.86",
+        "srm": 2,
+        "og": "1.11",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "VV0cFh"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Fa7dDu",
+    "fields": {
+        "name": "Fruit Lambics",
+        "desc": "These authentic Belgian-style ales are intensely sour, dry and complex. All three of the lambics - Raspberry, Blackberry and Black Cherry - are aged in oak casks for more than one year. 15 kg, give or take, of whole unpasteurized fruit is added to each 200 litre oak barrel of fermented beer. The naturally occurring wild yeasts cause a second, slow fermentation, breaking down the fruit sugars to total dryness.",
+        "ibu": 49,
+        "abv": "10.61",
+        "srm": 37,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "ouUm8w"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "fAeZM7",
+    "fields": {
+        "name": "33 Acres of Life",
+        "desc": "Easy on the alcohol content and weighing in on taste for a complete balance. Utilizing Mount Hood hops lends a spice infused aroma. A fruit like quality is created by fermenting the lager at ale temperatures. Gaining a complex taste through subtle approach; hints at a full-bodied ale yet retains a crisp finish.",
+        "ibu": 41,
+        "abv": "4.80",
+        "srm": 12,
+        "og": "1.13",
+        "fg": "1.09",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/fAeZM7/upload_bUnukq-large.png",
+        "brewery": "DqlySI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "fC4dvd",
+    "fields": {
+        "name": "Dude Chilling Pale Ale",
+        "desc": "A West Coast Style pale ale, dry hopped with Citra, Galaxy and Centennial. A drinkable go-to beer for those who crave hops.",
+        "ibu": 40,
+        "abv": "5.20",
+        "srm": 14,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.87",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "fhcG9Z",
+    "fields": {
+        "name": "Lost Souls",
+        "desc": "All treat, no trick: the rich and robust Lost Souls Chocolate Pumpkin Porter is so good, even the living dead will indulge.\r\n\r\nThe base of this beer is a robust porter that uses large amounts of chocolate malts to achieve a chocolaty flavour. Pumpkin is used in the mash along with traditional pumpkin pie spicing in the brew kettle. An English strain of yeast is used to give this beer a slightly fruity yeast derived flavour.",
+        "ibu": 18,
+        "abv": "6.50",
+        "srm": 44,
+        "og": "1.05",
+        "fg": "1.00",
+        "body": "0.08",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/fhcG9Z/upload_y2rr9z-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "fnl3Vj",
+    "fields": {
+        "name": "Tricycle Grapefruit Radler",
+        "desc": "Our refreshing lager blended with ruby red grapefruit juice to create a thirst quenching beer. Fresh grapefruit flavour and aroma supported by lager background.",
+        "ibu": 11,
+        "abv": "3.50",
+        "srm": 2,
+        "og": "1.06",
+        "fg": "1.03",
+        "body": "0.74",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "FsEW2a",
+    "fields": {
+        "name": "Dark Star Oatmeal Stout",
+        "desc": "R&B\u2019s Dark Star Oatmeal Stout boasts a distinct roasted coffee flavour and cappuccino coloured head, and is completed with a complex chocolatey, malty bitterness. Dark Star is without a doubt our darkest beer, but its relatively high effervescence makes it surprisingly refreshing for a stout. Unquestionably our most involved malt blend, this dark and complex stout is brewed in memory of our late friend and employee, Jamie Kelly.",
+        "ibu": 18,
+        "abv": "4.60",
+        "srm": 20,
+        "og": "1.11",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "FUsYJK",
+    "fields": {
+        "name": "Marina Light Lager",
+        "desc": null,
+        "ibu": 6,
+        "abv": "4.70",
+        "srm": 3,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "RNHfY1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "gicLqz",
+    "fields": {
+        "name": "The Great Pumpkin Ale",
+        "desc": "A spiced ale that tastes just like pumpkin pie in a glass.\n\nThe Pumpkin Ale is a malty, copper coloured brew that's spiced with cinnamon, cloves, nutmeg and ginger. We add 100 lbs of pumpkin directly to the mash and the resulting beer tastes just like pumpkin pie in a glass.",
+        "ibu": 35,
+        "abv": "12.00",
+        "srm": 16,
+        "og": "1.08",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "GMTsmz",
+    "fields": {
+        "name": "Bomber ESB",
+        "desc": null,
+        "ibu": 40,
+        "abv": "5.20",
+        "srm": 15,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.33",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "GohZ7B",
+    "fields": {
+        "name": "Dominion Lager",
+        "desc": null,
+        "ibu": 6,
+        "abv": "4.95",
+        "srm": 5,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "VV0cFh"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "H3x16D",
+    "fields": {
+        "name": "Cariboo Honey Lager",
+        "desc": "Well Balanced Lager: Slightly malty with some residual sweetness and a crisp, clean finish\r\n\r\nOur Cariboo Honey Lager is first and foremost a beer that will please the typical beer drinker. Second, it contributes additional resources to our Reforestation Program that is fighting pine beetles and forest fires harder and harder by the day. The beer itself is made with the same raw ingredients as our classic recipe but we add real BC honey from the Cariboo region to the brew. With the success of our Genuine Draft the Honey Lager is an excellent addition to the family and the beer itself is a crowd pleaser!\r\n\r\nThe Cariboo Honey Lager has a hint of honey that gives the beer a nice body and it will leave with you with a pleasantly warm and smooth finish that has little residual sweetness and goes very well with the Cariboo Brewing philosophy. We did not want to create a beer that was too sweet or that had an overbearing honey flavor. Great with spicy food or roast chicken.",
+        "ibu": 13,
+        "abv": "5.50",
+        "srm": 89,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.19",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/H3x16D/upload_HVdmMI-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "hA0Hlk",
+    "fields": {
+        "name": "Belma Flew Into The Citra Galaxy ISA",
+        "desc": "This ISA has a nice light refreshing body with tons of tropical fruit flavours from the hops. A perfect sipping beer for the summer.",
+        "ibu": 30,
+        "abv": "4.00",
+        "srm": 2,
+        "og": "1.12",
+        "fg": "1.09",
+        "body": "1.00",
+        "label": null,
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "HB3Nxn",
+    "fields": {
+        "name": "Oktoberfest",
+        "desc": "Marzen\u2019s \u201cMarch\u201d beer gives way to this delicious German lager, signaling the seasonal transition to autumn. Munich and Vienna malts provide the body, and a dry finish is produced by use of a blend of German lager yeast strains.\r\n\r\nEnjoy the malty character of this octane-boosted, golden coloured version of our Marzen. Prost!",
+        "ibu": 20,
+        "abv": "6.00",
+        "srm": 5,
+        "og": "1.07",
+        "fg": "1.02",
+        "body": "0.58",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "hbPVN7",
+    "fields": {
+        "name": "Common Man",
+        "desc": "On the nose \u2013 subtle toasty, malt aroma, on the tongue \u2013 caramel notes, with a dry, crisp body and slight bitter finish. We use 100% Northern Brewer hops and Victory, Crystal and Munich malt to create what we feel is one hell of a drinkable beer.",
+        "ibu": 33,
+        "abv": "5.30",
+        "srm": 11,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.33",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/hbPVN7/upload_V0PkKr-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "hO2d1h",
+    "fields": {
+        "name": "Amarillo Sour",
+        "desc": "Part of our Kettle Sour Series, this light sour ale showcases the souring power of lactobacillus and the great flavours and aromas of Amarillo hops. The ale is tart and refreshing with flavours and aromas of apricot, peach, melon and citrus.",
+        "ibu": 13,
+        "abv": "5.00",
+        "srm": 24,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "HYesui",
+    "fields": {
+        "name": "Fantasmagor\u00eda",
+        "desc": "Once upon a time two chaps who work at Brassneck Brewery, Jeffrey & Nigel found themselves at an illustrious Banquet held by the Chef\u2019s Table Society of British Columbia featuring superstar chef\u2019s from across the land pairing their incredible creations with the finest libations available to mankind.\r\n\r\n(Okay, okay, it was actually some food trucks in a parking lot serving some good grub & some decent booze).\r\n\r\nNever mind the setting. What is important, is the revelation. Something new on offer. A delicious hybrid beverage combination the world had never before tried: Horchata Cold Brew Coffee! Can you imagine?\r\n\r\nIt was quite the taste sensation. They were feeling inspired.\r\n\r\n\u201cThe similarity between Cold Brew Coffee & Stout is striking\u201d Exclaimed Jeffrey.\r\n\r\n\u201cWhat if, just what if\u2026!\u201d mused Nigel \u201cWe could find out what it takes to make authentic, great tasting, horchata & combine those ingredients with a delicious stout\u201d??\r\n\r\n\u201cOoooh! Ooooh!\u201d Squealed Jeffrey with excitement \u201cWe could use some really interesting specialty malts like rice, wheat & golden oats. That would really make for some interesting flavours! And let\u2019s back up the body with a little sweetness\u2026hmmm\u2026THAT\u2019S IT! We\u2019ll add lactose, also known as milk sugar to give it that creamy satisfying sweetness we experienced with that Horchata Cold Brew. Now if only we knew the key ingredients to a tasty horchata\u2026\u201d.\r\n\r\nThey set about finding out who was behind this wonderful marriage of deliciousness. It was discovered the good folks over at Kafka\u2019s Cafe on Main Street & the Mexican Maestro\u2019s at local favourite Sal Y Limon had got their noggins together to create this Horchata Cold Brew. They were kind enough to share their recipe secrets, even going so far as make a little cold brew to add for a subtle hint of coffee.\r\n\r\nJeffrey & Nigel returned to the brewery, triumphant with an incredible new beer idea.\r\n\r\n\u201cFantasmagoria\u201d was born. We think it\u2019s gonna be a hit.\r\n\r\n(Also, they all lived happily ever after).",
+        "ibu": 42,
+        "abv": "7.00",
+        "srm": 41,
+        "og": "1.12",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/HYesui/upload_Y0vPvG-large.png",
+        "brewery": "aywDqA"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "IbJIih",
+    "fields": {
+        "name": "Spruce Tip",
+        "desc": "Natural | Fragrant | Flavorful | A crisp Golden Ale brewed with Cascade hops and conditioned with fresh Vancouver Island Spruce Tips.",
+        "ibu": 29,
+        "abv": "5.70",
+        "srm": 10,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "iJY6as",
+    "fields": {
+        "name": "Bomber Pilsner",
+        "desc": "GOLD MEDAL WINNER - BEST PILSNER - VANCOUVER MAGAZINE INTERNATIONAL CRAFT BEER AWARDS 2015\r\n\r\nImported Czech Saaz hops provide the floral aroma and finish to our refreshing and clean-drinking lager, for the seasoned craft beer drinker or the team that wants a cold one after the game!",
+        "ibu": 28,
+        "abv": "4.80",
+        "srm": 4,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.29",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "iK0bey",
+    "fields": {
+        "name": "Kettle Sour",
+        "desc": null,
+        "ibu": 4,
+        "abv": "5.20",
+        "srm": 0,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "ASNS0q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "illmv4",
+    "fields": {
+        "name": "Cartwright Pale Ale",
+        "desc": null,
+        "ibu": 33,
+        "abv": "4.30",
+        "srm": 8,
+        "og": "1.13",
+        "fg": "1.10",
+        "body": "1.00",
+        "label": null,
+        "brewery": "RNHfY1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "J2LA0Q",
+    "fields": {
+        "name": "Sour Cherry Ale",
+        "desc": "An intriguing fruit beer brewed with fresh sour cherries.\n\nOur Sour Cherry Ale is inspired by the centuries old Belgian tradition of brewing beer with cherries. This high gravity brew undergoes a slow second fermentation with tons of fresh, whole Montmorency cherries from a local orchard in the Fraser Valley. The result is a most intriguing beer with an elegant cherry perfume, a tart, fruity flavour, and a subtle almondy finish.",
+        "ibu": 25,
+        "abv": "3.33",
+        "srm": 30,
+        "og": "1.06",
+        "fg": "1.03",
+        "body": "0.77",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "j9pmw5",
+    "fields": {
+        "name": "Hay Fever Spring Saison",
+        "desc": null,
+        "ibu": 32,
+        "abv": "6.50",
+        "srm": 9,
+        "og": "1.08",
+        "fg": "1.03",
+        "body": "0.77",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/j9pmw5/upload_UaaNH7-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "JhlRB8",
+    "fields": {
+        "name": "Lavender Saison",
+        "desc": "This saison has light floral notes of Hidcote lavender from Happy Valley farms of Vancouver island.There are also spicy notes from a blend of Belgian and French yeast strains.",
+        "ibu": 21,
+        "abv": "5.70",
+        "srm": 14,
+        "og": "1.06",
+        "fg": "1.02",
+        "body": "0.54",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "JOvEO5",
+    "fields": {
+        "name": "Oyster Stout",
+        "desc": null,
+        "ibu": 25,
+        "abv": "4.60",
+        "srm": 40,
+        "og": "1.08",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "JTj5vB",
+    "fields": {
+        "name": "Sour Saison",
+        "desc": "A refreshing sour that has the fruity and spicy characters of a Saison and a pleasant acidity derived from souring the mash with lactobacillus.",
+        "ibu": 19,
+        "abv": "6.50",
+        "srm": 9,
+        "og": "1.10",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Jv8JWY",
+    "fields": {
+        "name": "Red Rye Ale",
+        "desc": "This is a beautifully coloured ruby red rye ale. The rye provides a smooth, slightly spicy, malt forward mouth, backed up by a blend of Yakima hops complementing the malt with notes of pear, citrus and black pepper.",
+        "ibu": 40,
+        "abv": "5.00",
+        "srm": 24,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.28",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/Jv8JWY/upload_dojs7o-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "k5aniv",
+    "fields": {
+        "name": "Honey Brown",
+        "desc": null,
+        "ibu": 10,
+        "abv": "4.65",
+        "srm": 3,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.35",
+        "label": null,
+        "brewery": "y6OQwH"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "kApsdV",
+    "fields": {
+        "name": "Cascadia Cream Ale",
+        "desc": "Every year in Vancouver there are a few days when the air is cool & crisp, the sun shines brightly, and the leaves show their vibrant colours -- then it starts to rain incessantly. Anyway, our Cascadia Cream Ale is dedicated to the spirit of mountains, oceans, golden days and gentle mist. Caramel and honey malts lend this ale a mellow, grainy maltiness which is balanced by the subtle presence of English finishing hops. Cheers, our Cascadia Cream Ale will be sure to brighten up even the wettest West Coast day.",
+        "ibu": 8,
+        "abv": "4.75",
+        "srm": 5,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "kBwYvW",
+    "fields": {
+        "name": "Mandarina",
+        "desc": null,
+        "ibu": 58,
+        "abv": "5.30",
+        "srm": 11,
+        "og": "1.06",
+        "fg": "1.02",
+        "body": "0.55",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "kcDoYG",
+    "fields": {
+        "name": "Dive Bomb Porter",
+        "desc": "An unpredictable Brown Porter style ale. Hidden behind the slight upfront hop bitterness and the deep roast character you'll find hint's of caramel, toffee, chocolate, and nuts.",
+        "ibu": 33,
+        "abv": "5.00",
+        "srm": 27,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/kcDoYG/upload_qnPUNt-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "KdGukJ",
+    "fields": {
+        "name": "Bomber IPA",
+        "desc": "Like the Northwest convergence of the ocean and the mountains; only the best hops enter our brew kettle, combining with balanced malt for this complex configuration of quaffability. It's a beautiful thing...",
+        "ibu": 65,
+        "abv": "6.30",
+        "srm": 9,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.37",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "kepiAF",
+    "fields": {
+        "name": "Personas",
+        "desc": null,
+        "ibu": 30,
+        "abv": "5.10",
+        "srm": 10,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "INXmN1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "kKqFhx",
+    "fields": {
+        "name": "TNT 8% Extra Strong Beer",
+        "desc": "Specialty Lager: Robust aroma malt with roasted toffee notes\r\nTNT Strong is actually its very own unique PWB lager blend, many British Columbians have already discovered the quality of our highest alcohol beer and it has recently exploded in Alberta \u2013 pun intended.\r\n\r\nTNT Strong is not at all intimidating for an 8% and the pure spring water base gives it an extreme drinkability. This is how strong beers were meant to be made \u2013 Blow Away Your Thirst! Great with spicy food or roast chicken.",
+        "ibu": 95,
+        "abv": "8.00",
+        "srm": 27,
+        "og": "1.09",
+        "fg": "1.03",
+        "body": "0.71",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/kKqFhx/upload_0yllgo-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "KRLOf1",
+    "fields": {
+        "name": "33 Acres of Ocean",
+        "desc": "We\u2019ve used ingredients harvested near the Pacific Ocean including Cascade and Calypso hops. Substantive hop flavour paired with a bit of caramel complete the composite to end with a medium finish. Typically consumed in good company amid the Pacific and pine.",
+        "ibu": 68,
+        "abv": "5.30",
+        "srm": 7,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.11",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/KRLOf1/upload_U6v5nR-large.png",
+        "brewery": "DqlySI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "lIEIuk",
+    "fields": {
+        "name": "Black Christmas C.D.A.",
+        "desc": "We never saw the point of sucking up to Santa all year long for a couple of measly presents. If drinking this hoppy, toasted malt CDA puts us on the naughty list, where do we sign up?\r\n\r\nThis beer does away with Vanilla and spices common in Christmas ales and delivers hops and bitterness. A new style of beer developed in the Pacific Northwest, this CDA is hopped like an IPA but is dark in colour. 100-mile local hops were used to build the hop flavour and aroma.",
+        "ibu": 65,
+        "abv": "6.50",
+        "srm": 35,
+        "og": "1.09",
+        "fg": "1.04",
+        "body": "0.90",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "lPPoWm",
+    "fields": {
+        "name": "Extra Special Bitter",
+        "desc": null,
+        "ibu": 41,
+        "abv": "5.61",
+        "srm": 12,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.13",
+        "label": null,
+        "brewery": "AAj4GG"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "lsCXKR",
+    "fields": {
+        "name": "Lager",
+        "desc": "Made with Canadian Prairie two-row malted barley and hops imported from Germany and the Czech Republic.",
+        "ibu": 9,
+        "abv": "5.00",
+        "srm": 4,
+        "og": "1.10",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "SmLlGS"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "LSqYnl",
+    "fields": {
+        "name": "Spirit Chaser Coffee Porter",
+        "desc": "They told you pigs can\u2019t fly\u2026 R&B Brewing presents from the Aceh Gayo jungle of Sumatra to the urban jungle of East Vancouver our Salt Spring Coffee inspired SPIRIT CHASER Sumatra Coffee Porter is the perfect combination of single origin coffee and porter \u2013 Malty, roasty and chocolaty with a ruby black body.",
+        "ibu": 25,
+        "abv": "5.30",
+        "srm": 21,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "LTYb5W",
+    "fields": {
+        "name": "Hoparazzi India Pale Lager",
+        "desc": "Don\u2019t mind the flashes. This unique pale lager with big hop aroma and citrus kick tends to attract a lot of attention.\r\n\r\nInspired by the west coast IPAs, this pale gold lager is loaded with pacific west coast hops with a touch of crystal malt. This beer is fermented cool to keep the beer crisp and refreshing as well as dryhopped to increase the citrusy hop aroma.",
+        "ibu": 50,
+        "abv": "6.00",
+        "srm": 6,
+        "og": "1.11",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/LTYb5W/upload_lunraW-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "mbLHQq",
+    "fields": {
+        "name": "Sun God Wheat Ale",
+        "desc": "R&B\u2019s Sun God Wheat Ale is a North American style Kristal Weizen (a filtered wheat ale) producing a crisp, clear and refreshing beer. Significantly cleaner tasting than your typical Hefeweizen (unfiltered wheat ale), Sun God is a light-bodied wheat ale made with the highest quality Canadian wheat and 2-Row malted barley and is bittered and finished with premium German Perle hops producing a delicate cereal flavour with a hint of wheat. The perfect patio beer with or without some added citrus.",
+        "ibu": 12,
+        "abv": "4.20",
+        "srm": 7,
+        "og": "1.05",
+        "fg": "1.02",
+        "body": "0.55",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "mDzJha",
+    "fields": {
+        "name": "English Bay Pale Ale",
+        "desc": null,
+        "ibu": 32,
+        "abv": "5.00",
+        "srm": 6,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "MeZ3rO",
+    "fields": {
+        "name": "NatureLand Organic Lager",
+        "desc": "Organic Lager: Dry character with noble aroma hops\r\nWe have created an exceptional organic lager with an inviting flavour and a clean, refreshing taste. NatureLand is brewed with the world\u2019s finest organic malted barley, hops and our own naturally pure spring water. A stunning beer that is brewed using only the best two-row malt, Hallertau Hops and our own pure spring water \u2013 NatureLand Organic Lager is among Nature\u2019s finest unadulterated products.\r\n\r\nEvery pour of NatureLand Lager is a veritable glass of alpine-meadow sunshine, complete with hints of green apple. Great with spicy food or roast chicken.",
+        "ibu": 10,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/MeZ3rO/upload_wq8qMG-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "mJEOcA",
+    "fields": {
+        "name": "Hurricane I.P.A.",
+        "desc": "A complex, flavourful and fascinating ale lies just on the edge of being totally out of control. \u009dStephan Beaumont, Celebrator Beer News\r\n\r\nIndia Pale Ale dates back to the 1700's when Britain needed a hearty beer to ship to her troops in India. Because the ships had to cross the equator twice to get there, spoilage was a major problem until some clever brewer realized that both alcohol and hops are natural preservatives. James brews Hurricane I.P.A. in this tradition, and packs it with enough hops and alcohol to survive crossing the orbit of Mercury twice. The grist is 100% Gambrinus premium 2-row barley malt, copiously hopped with fresh Centennial and Willamette. The result is a rich, golden, intense beer with bitterness in perfect balance with residual sweetness.",
+        "ibu": 60,
+        "abv": "7.33",
+        "srm": 12,
+        "og": "1.10",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "ouUm8w"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "mkcKWv",
+    "fields": {
+        "name": "Brett Aged Azacca Ale",
+        "desc": "We've taken the Azacca Ale and aged it for five week with Brettanomyces. The aging process gave this light and refreshing ale a nice funkiness. Come in and try some while it lasts.",
+        "ibu": 32,
+        "abv": "5.00",
+        "srm": 9,
+        "og": "1.08",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "MPJbsM",
+    "fields": {
+        "name": "IPA",
+        "desc": null,
+        "ibu": 66,
+        "abv": "7.03",
+        "srm": 6,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.22",
+        "label": null,
+        "brewery": "y6OQwH"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "MUYgmw",
+    "fields": {
+        "name": "Signature Pale Ale",
+        "desc": "The term \\Pale Ale\"dates back to the 1800s when all beer was dark brown in colour. New malting techniques led to the development of pale malt an amber- to copper-coloured ale you could actually see through. Plenty of British Crystal malt in the grist lends this ale its rich colour its caramel maltiness and adds the occasional whiff of toffee to the nose. An addition of American and German hops to the kettle at the end of the boil is used to suffuse our Pale Ale with a gently spicy hop finish.\"\"\"",
+        "ibu": 38,
+        "abv": "5.57",
+        "srm": 16,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.18",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Mvwchh",
+    "fields": {
+        "name": "Hopdemonium IPA",
+        "desc": "This Pacific Northwest IPA is packed with so many hops it was hard to keep them in the kettle. The dynamic hop forefront is backed by an equally strong malt base giving this ale it's golden colour.",
+        "ibu": 88,
+        "abv": "8.00",
+        "srm": 10,
+        "og": "1.09",
+        "fg": "1.03",
+        "body": "0.73",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/Mvwchh/upload_2MzSuh-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "MyYWJg",
+    "fields": {
+        "name": "Hyper Combo",
+        "desc": "Red Rye IPA.",
+        "ibu": 62,
+        "abv": "7.30",
+        "srm": 10,
+        "og": "1.12",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "INXmN1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "N77X80",
+    "fields": {
+        "name": "Irish Red Ale",
+        "desc": null,
+        "ibu": 23,
+        "abv": "6.50",
+        "srm": 16,
+        "og": "1.13",
+        "fg": "1.08",
+        "body": null,
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Nbx74B",
+    "fields": {
+        "name": "From East Van With Love",
+        "desc": "From East Van With Love is a collaboration between Portland\u2019s Gigantic Brewing & Vancouver\u2019s Parallel 49 Brewing Company. The result: a rich and dark Bourbon Aged Imperial Maple Stout, best enjoyed after foiling villains and henchmen. Best served after Jan 31st 2015.",
+        "ibu": 55,
+        "abv": "11.50",
+        "srm": 40,
+        "og": "1.13",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "nC1Y8I",
+    "fields": {
+        "name": "Graham Cracker Ale",
+        "desc": "Through the addition of spices, vanilla and actual graham crackers, we feel we have achieved a classic winter warmer for the holiday season.",
+        "ibu": 30,
+        "abv": "8.00",
+        "srm": 25,
+        "og": "1.10",
+        "fg": "1.04",
+        "body": "0.93",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/nC1Y8I/upload_A2XKln-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "nhz636",
+    "fields": {
+        "name": "Flagship IPA",
+        "desc": "Cloudy, juicy, delicious. A meticulously crafted IPA 4 years in the making.",
+        "ibu": 65,
+        "abv": "6.70",
+        "srm": 6,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.28",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Nj8cgD",
+    "fields": {
+        "name": "Nut Brown Ale",
+        "desc": null,
+        "ibu": 40,
+        "abv": "4.22",
+        "srm": 23,
+        "og": "1.11",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "AAj4GG"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "nn3mUT",
+    "fields": {
+        "name": "Ironhorse",
+        "desc": "Full Flavored Lager: Strong malty aroma with sweet notes\r\n\r\nFermented longer with a special yeast \u2014 the reason for the higher alcohol content \u2014 Ironhorse is a strong brew for beer connoisseurs. It\u2019s bold graphics and original appeal are not for the faint-of-palate \u2014 this lager is a brawny mouthful of velvet smoothness.\r\n\r\nIn spite of its impressive 6.4% alcohol content, Ironhorse is an extremely easy-drinking beer that goes well with food. Its rich, complex taste with suggestions of tartness will appeal to the gourmet who appreciates a brew that does more than satisfy a thirst. Great with spicy food or roast chicken.",
+        "ibu": 78,
+        "abv": "6.40",
+        "srm": 48,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/nn3mUT/upload_0v7lTb-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Np0b86",
+    "fields": {
+        "name": "Jongleur",
+        "desc": "Amid bursts of confetti & music, the Juggler entertains us with a handful of oranges. As the oranges rise & fall, the planets revolve in the universe, babies are born, & the old pass on. Jongleur \u2013 our silky bodied, spicy & aromatic Wit \u2013 infuses any moment with a spark of joy. A glass of this bright & refreshing beer reminds us of the juggler\u2019s simple lesson: to take pleasure in both the big & the small things in life.",
+        "ibu": 12,
+        "abv": "4.50",
+        "srm": 2,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.29",
+        "label": null,
+        "brewery": "CmRwr8"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "nPqvXo",
+    "fields": {
+        "name": "Jasmine IPA",
+        "desc": "American IPA with Jasmine.",
+        "ibu": 60,
+        "abv": "6.50",
+        "srm": 12,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "ASNS0q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "nuA9M3",
+    "fields": {
+        "name": "Absolute Horizon CDA",
+        "desc": "GOLD MEDAL WINNER - CASCADIAN DARK ALES - SIP MAGAZINE BEST OF THE NORTHWEST 2014!\r\n\r\nAlmost every species in the universe has an irrational fear of the dark, but there's nothing to fear in this perfectly balanced Cascadian Dark Ale.  the stellar mass that lies within forms a dichotomous darkness of Midnight Wheat and Chocolate Malts, punctuated by the presence of Galaxy, Horizon, Comet, and Apollo hops.  This may just be the beer you're looking for... So say we all...",
+        "ibu": 72,
+        "abv": "6.50",
+        "srm": 26,
+        "og": "1.13",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "nXoKVR",
+    "fields": {
+        "name": "Mad Scow Stout",
+        "desc": null,
+        "ibu": 60,
+        "abv": "8.70",
+        "srm": 41,
+        "og": "1.11",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "VV0cFh"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "o7LLXe",
+    "fields": {
+        "name": "Brick & Beam IPA",
+        "desc": "First brewed for the colonial British in India, oak casks of IPA survived in the holds of ships sailing through the Indian Ocean. Since hops and alcohol help to preserve beer, it had lots of both. Although it isn't aged in oak, ours has a powerful hop character.",
+        "ibu": 39,
+        "abv": "6.68",
+        "srm": 7,
+        "og": "1.07",
+        "fg": "1.01",
+        "body": "0.36",
+        "label": null,
+        "brewery": "VJ56AP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "OcxClb",
+    "fields": {
+        "name": "Black Plague Stout",
+        "desc": "Derives its name from the historical fact that at one time in Europe beer was about the only safe liquid to drink. Black Plague is Irish style dry stout brewed only in fall and winter and only in small batches to ensure the freshness so paramount to such an intensely roasted beer.",
+        "ibu": 46,
+        "abv": "6.22",
+        "srm": 40,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "ouUm8w"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "OhEiAl",
+    "fields": {
+        "name": "Cannon Amber Ale",
+        "desc": "Copper in color, rich in flavor with imported malts",
+        "ibu": 37,
+        "abv": "5.80",
+        "srm": 17,
+        "og": "1.03",
+        "fg": "0.98",
+        "body": null,
+        "label": null,
+        "brewery": "aywDqA"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "okRphG",
+    "fields": {
+        "name": "Seedspitter Watermelon Wit",
+        "desc": "Have you ever sipped a summer day? This crisp Belgian wit finishes with a blast of refreshing watermelon.\r\n\r\nA Belgian style Witbier made with a watermelon twist. Made using barley, wheat and oats, this unfiltered beer boasts an effervescent watermelon aroma and crisp dry finish.",
+        "ibu": 8,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Ov45aH",
+    "fields": {
+        "name": "Raven Cream Ale",
+        "desc": "R&B\u2019s Raven Cream Ale is a dark, yet surprisingly light-bodied cream ale. Crystal, Whitbread Goldings, and Cascade hops are added to a carefully crafted blend of 2-Row, C-120, Roasted and Chocolate barley malts creating a truly drinkable beer with subtle nutty flavours and hints of chocolate. Raven Cream Ale is a two-time World Beer Cup medalist (silver and bronze), mellow enough for the casual beer drinker yet complex enough for the most discerning foodie.",
+        "ibu": 18,
+        "abv": "4.80",
+        "srm": 3,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.83",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "oX2Nyc",
+    "fields": {
+        "name": "De Witte",
+        "desc": "De Witte is a flavourful summer beer brewed in the tradition of the white ales of the Flemish Brabant. Made with malted and unmalted wheat, seasoned with orange peel and coriander and fermented with Belgian yeast and lactobacillus, De Witte is complex on the palate, with a refreshing, tart finish.",
+        "ibu": 44,
+        "abv": "5.20",
+        "srm": 38,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Wlif0F"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "OXi7r1",
+    "fields": {
+        "name": "Kitsilano Maple Cream Ale",
+        "desc": null,
+        "ibu": 7,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.30",
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "PFHnZc",
+    "fields": {
+        "name": "Bourbon Blood Orange",
+        "desc": "This American wheat ale is a crisp, refreshing brew. Pouring a hazy straw colour, this beer was brewed with the addition of fresh blood oranges and bourbon. Zesty and floral, with clean citrus flavours and a moderate bitterness this beer is ideal for any day.",
+        "ibu": 20,
+        "abv": "5.50",
+        "srm": 5,
+        "og": "1.10",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/PFHnZc/upload_aci7zt-large.png",
+        "brewery": "gvFuE2"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "pgCqU6",
+    "fields": {
+        "name": "Pale Ale",
+        "desc": null,
+        "ibu": 42,
+        "abv": "5.21",
+        "srm": 7,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.10",
+        "label": null,
+        "brewery": "jOPm0a"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "plRvOg",
+    "fields": {
+        "name": "Pilsner",
+        "desc": "Our Pilsner is a true beer drinker's beer inspired by the first golden lagers brewed in the Czech town of Pilsn. This full-bodied lager is hopped with copious amounts of Sterling hops, lending it a refreshing, citrusy finish.",
+        "ibu": 35,
+        "abv": "4.56",
+        "srm": 3,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.36",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "PrX8es",
+    "fields": {
+        "name": "Red Truck Ale",
+        "desc": null,
+        "ibu": 33,
+        "abv": "5.68",
+        "srm": 11,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "VV0cFh"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "PVkMHj",
+    "fields": {
+        "name": "India Pale Ale",
+        "desc": "You like your hops?! Good, then strap on your moon boots comrade, because you are in for a ride! Lighter than your average IPA - Amarillo and El Dorado hops steal the show, resulting in stone fruit, citrus and all around tropical hoppy goodness",
+        "ibu": 95,
+        "abv": "6.50",
+        "srm": 3,
+        "og": "1.05",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/PVkMHj/upload_aHk9dR-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Q6madu",
+    "fields": {
+        "name": "Pacific Schwarzbock",
+        "desc": "The name \u201cSchwarzbock\u201d derives from the German word for black (\u201cschwarz\u201d) and strong beer (\u201cbock\u201d). Pacific Schwarzbock is true to German-style bocks, with an alcohol content of 8%, yet remarkably drinkable with no alcohol taste but a nice warm body that beer connoisseurs are looking for.\r\n\r\nPacific Schwarzbock is brewed with just enough black malts to give the beer its deep black color without tasting burned. In fact, to the contrary, Pacific Schwarzbock has a nice velvety body with lots of warm mouth feel. The black malts come through just enough to provide a subtle hint of coffee notes.",
+        "ibu": 29,
+        "abv": "4.31",
+        "srm": 27,
+        "og": "1.09",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/Q6madu/upload_TWabUe-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "qAPdrH",
+    "fields": {
+        "name": "German IPA - Ariana",
+        "desc": null,
+        "ibu": 70,
+        "abv": "7.12",
+        "srm": 12,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.18",
+        "label": null,
+        "brewery": "VdpAHg"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "qbvHti",
+    "fields": {
+        "name": "Big River IPA",
+        "desc": null,
+        "ibu": 61,
+        "abv": "6.90",
+        "srm": 10,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "AAj4GG"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "qCprJR",
+    "fields": {
+        "name": "Stout",
+        "desc": "A West Coast Stout brewed with of crystal malt, roasted barley, black malt, and hopped with the ever so lovely Cascade Hop. The roast flavours and aromas are complimented by floral and spicy hop characters. The perfect beer for the winter months.",
+        "ibu": 45,
+        "abv": "6.00",
+        "srm": 40,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.19",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/qCprJR/upload_3QgF5g-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "QDsxVU",
+    "fields": {
+        "name": "Bike Route Best Bitter",
+        "desc": "A cyclist travels north on the mosaic bike route while another heads east on the adanac bike route. They plan to meet where the bike routes cross.\r\n\r\nIt may sound like a word problem, but it\u2019s a typical trip to the bomber brewery, which is situated at just that intersection: the inspiration for our bike route best bitter.  Brewed to bring people together, this award-winning session ale is bursting with the complexity of flavour only mosaic hops can provide. Ride on down or try one at home, but definitely share with a friend.",
+        "ibu": 35,
+        "abv": "3.90",
+        "srm": 12,
+        "og": "1.04",
+        "fg": "1.01",
+        "body": "0.23",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "qeF4uo",
+    "fields": {
+        "name": "Chocolate Milk Stout",
+        "desc": "This dark and broody milk stout is full bodied and perfect to cuddle up next to a fire with. A solid and robust drink that has been aged on cacao nibs and shells provided by the East Van Roasting Company.",
+        "ibu": 19,
+        "abv": "5.50",
+        "srm": 41,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.26",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/qeF4uo/upload_YBdgsp-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "qFRkvQ",
+    "fields": {
+        "name": "Shiva",
+        "desc": null,
+        "ibu": 64,
+        "abv": "5.00",
+        "srm": 8,
+        "og": "1.11",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": null,
+        "brewery": "INXmN1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "qH651z",
+    "fields": {
+        "name": "Heroica Red Ale",
+        "desc": "This Gold Medal award winning, robust Red Ale has beautiful citrus and pine notes that come from our generous additions of Centennial, Citra & Simcoe hops. It is smooth and velvety in the mouth with the toasted malts giving it a medium body with hints of roasted hazelnut, toffee and caramel malt flavours.",
+        "ibu": 40,
+        "abv": "5.60",
+        "srm": 12,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "QIfXLy",
+    "fields": {
+        "name": "Snap Crackle Hop",
+        "desc": "An Imperial IPA brewed with flaked rice in order to keep the body light in order to showcase the New Zealand Motueka hops. Pronounced tropical fruit flavors and aromas hide a big 9.3% ABV.",
+        "ibu": 70,
+        "abv": "9.30",
+        "srm": 7,
+        "og": "1.12",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/QIfXLy/upload_8S0WJX-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "QlycHZ",
+    "fields": {
+        "name": "Salted Coconut",
+        "desc": "Stouts are rarely a style of beer clamored for during the warmer seasons, and not ones to play it safe, we here at Fieldwork Brewing Company decided to deliver what we think is the perfect stout for summer. We developed an Oatmeal Stout with loads of rich cocoa and toasted malt notes to compliment the heaps of hand toasted coconut the beer is aged on. To accentuate the tropical notes of coconut we added in an obscene amount of sea salt which in turn helps cut through the rich oatmeal laden body to help transform what could be considered a dessert beer into a sessionable inky black elixir. Its silky velvet-like body aides in draping the coconut from the front to the back of your tongue, only thinning out as the salt hits the palate, inducing just the slightest amount of salivation, helping this creamy coconut bomb wash clean and keeping it incredibly drinkable for a stout that is darker than the Alaskan sky in winter. Do yourself a favor and enjoy this German Chocolate Cake inspired Stout while soaking in the sun's rays at your favorite beer garden or hunkered down by a fireplace as the cool night hits.",
+        "ibu": 29,
+        "abv": "5.60",
+        "srm": 20,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": null,
+        "label": null,
+        "brewery": "ASNS0q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "r01rHx",
+    "fields": {
+        "name": "Blonde Ale",
+        "desc": null,
+        "ibu": 17,
+        "abv": "4.12",
+        "srm": 7,
+        "og": "1.04",
+        "fg": "1.01",
+        "body": "0.25",
+        "label": null,
+        "brewery": "AAj4GG"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "R4Adqh",
+    "fields": {
+        "name": "Ugly Sweater",
+        "desc": "A case of the winter warm and fuzzies requires two things: a sweater that only a grandma could love and this sweet, creamy, dark milk stout.\r\n\r\nA North American take on a classic English style of beer. This beer is brewed as a smooth tasting stout and sweetened using milk sugar (lactose). The sweetness plays an integral part in balancing the roasted malts that give the beer it's dark colour.",
+        "ibu": 30,
+        "abv": "5.00",
+        "srm": 40,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/R4Adqh/upload_XqqWb7-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "RMX3t2",
+    "fields": {
+        "name": "Cabana Hammock",
+        "desc": null,
+        "ibu": 15,
+        "abv": "6.00",
+        "srm": 3,
+        "og": "1.12",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/RMX3t2/upload_BtPgZ8-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "robMSl",
+    "fields": {
+        "name": "Haupenthal Hefeweizen",
+        "desc": null,
+        "ibu": 12,
+        "abv": "4.80",
+        "srm": 6,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "RNHfY1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "rrrRIf",
+    "fields": {
+        "name": "Rye India Pale Ale",
+        "desc": "Containing large quantities of one of our favorite ingredients, this IPA is pleased to showcase RYE! With its delicious spice and contribution to mouth feel, we feel Rye enhances all of our favorite characteristics of a North West IPA.",
+        "ibu": 60,
+        "abv": "6.00",
+        "srm": 10,
+        "og": "1.09",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/rrrRIf/upload_PtDo0d-large.png",
+        "brewery": "VdpAHg"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "RtA4iN",
+    "fields": {
+        "name": "Kakeru",
+        "desc": "A kettle sour dry hopped with Equinox hops which feature citrus tropical fruit, and floral aromas.",
+        "ibu": 21,
+        "abv": "5.40",
+        "srm": 11,
+        "og": "1.12",
+        "fg": "1.08",
+        "body": "1.00",
+        "label": null,
+        "brewery": "INXmN1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "RzvedX",
+    "fields": {
+        "name": "Premium Gold",
+        "desc": null,
+        "ibu": 10,
+        "abv": "4.74",
+        "srm": 5,
+        "og": "1.13",
+        "fg": "1.09",
+        "body": "1.00",
+        "label": null,
+        "brewery": "jOPm0a"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "S5AjY7",
+    "fields": {
+        "name": "Skinny Tire Hefeweizen",
+        "desc": "Our Hefeweizen is a faithful version of the traditional Bavarian wheat beer. Hefe is the German word for 'yeast' and weizen means 'wheat'. This beer is made with 40% wheat malt and is brewed with a special yeast that tends to stay in suspension, giving the beer its cloudy appearance. Bavarians are so convinced of the healthful qualities of this yeasty brew that doctors there are known to prescribe two Hefeweizens a day to feeble patients. The yeast used for this brew also imparts its unique spicy, clovey flavour. Some people even detect a light banana flavour. All of these wacky flavours are the natural 'signature' left by this specific yeast strain during its fermentation of the beer and no additional spices are added.",
+        "ibu": 15,
+        "abv": "5.43",
+        "srm": 7,
+        "og": "1.11",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "sBtT8B",
+    "fields": {
+        "name": "Shake Your Fruity - Milkshake IPA",
+        "desc": "A full bodied Milkshake IPA containing lactose. Primary flavours are of citrus fruit including orange and grapefruit.",
+        "ibu": 38,
+        "abv": "7.30",
+        "srm": 8,
+        "og": "1.10",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "sBxKC1",
+    "fields": {
+        "name": "East Side Bitter",
+        "desc": "This is not your typical English Extra Special Bitter. R&B Brewing used a combination of English and local malts to create this beer\u2019s subtle malty canvas where hops are the main attraction. Northwest hops, and lots of them added to the kettle and a ridiculous amount added post fermentation give this beer its unique aroma and crisp refreshing finish. Its almost too easy to drink! Enjoy!!",
+        "ibu": 30,
+        "abv": "5.50",
+        "srm": 9,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "SWYfSs",
+    "fields": {
+        "name": "95 Pounds of Wethop Goodness",
+        "desc": "This Pale Ale was brewed with Wethops in mind. The beer has a nice light malt body which showcases the 95 pounds of fresh, lupulin bursting, Cascade and Centennial Hops. Hope you all enjoy the Goodness of this Wethop Pale Ale.",
+        "ibu": 30,
+        "abv": "6.00",
+        "srm": 4,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.29",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/SWYfSs/upload_AkAOoe-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Sxxt4F",
+    "fields": {
+        "name": "Bohemian Pils",
+        "desc": "A clean, crisp golden pale pilsner with spicy, floral hop aroma. Polish Marynka and Saaz hops are the driving force in this brew's hop character, resulting in a balanced, yet complex Pils.",
+        "ibu": 20,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.23",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/Sxxt4F/upload_MYK4qQ-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "T5MMWi",
+    "fields": {
+        "name": "Summer Saison",
+        "desc": null,
+        "ibu": 21,
+        "abv": "4.70",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.25",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "t8QNGc",
+    "fields": {
+        "name": "Yippee IPA",
+        "desc": null,
+        "ibu": 56,
+        "abv": "6.43",
+        "srm": 11,
+        "og": "1.12",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": null,
+        "brewery": "VJ56AP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "TgoWZl",
+    "fields": {
+        "name": "Double Ugly Rye Pale Ale",
+        "desc": "A rye beer\u2026made with rye grain and rye crystal malt. We use a great mix of full flavor hops to create this amber rye pale ale. This beer will knock you down with all the hop flavor.",
+        "ibu": 148,
+        "abv": "6.50",
+        "srm": 12,
+        "og": "1.02",
+        "fg": "0.97",
+        "body": null,
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/TgoWZl/upload_bXibkT-large.png",
+        "brewery": "ASNS0q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "thxOIp",
+    "fields": {
+        "name": "Warehouse Stout",
+        "desc": "This rich, round and smooth ale has flavours of roast coffee, chocolate and smoke. It is brewed with oats to create a silky smooth texture and a firm body.",
+        "ibu": 37,
+        "abv": "8.58",
+        "srm": 40,
+        "og": "1.06",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "VJ56AP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "TIFS7Q",
+    "fields": {
+        "name": "Sleigh Booster Imperial Red Ale",
+        "desc": null,
+        "ibu": 77,
+        "abv": "9.00",
+        "srm": 11,
+        "og": "1.09",
+        "fg": "1.03",
+        "body": "0.64",
+        "label": null,
+        "brewery": "gvFuE2"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "tNfpFe",
+    "fields": {
+        "name": "Cariboo Pale Ale",
+        "desc": "Since the beginning, the most important ingredient in a good Pale Ale is the water. Brewed with our 100% pure BC spring water and a generous portion of Cascade Mountain Hops, this Pale Ale is quickly becoming the heart of our summer operation. With a refreshing, full flavored taste that is smooth and satisfying, Cariboo Pale Ale is the kind of beer that brings the familiar into focus, making the important things easier to notice. It\u2019s where the Summer goes to get a lil cooler and you should too.\r\n\r\nMedium body with a bouquet of hop and sweet malt aromas. The overall character is greatly influenced by the top fermenting Ale yeast that gives the beer some nice fruity ester characteristics. We balance our Cariboo Pale Ale with a dash full of sweet caramel malts and it goes well with BBQ or grilled meat.",
+        "ibu": 42,
+        "abv": "5.50",
+        "srm": 11,
+        "og": "1.11",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/tNfpFe/upload_sRllsf-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "tUmC7E",
+    "fields": {
+        "name": "Old Fat Heater Winter Ale",
+        "desc": "Everyone knows that person, the one who would do anything for you; The shirt off his back, her last ten bucks, a place to crash. It's a comfort to know they're there for you. This time-honoured winter ale is just like that - reporting for duty with only the finest hops and malts, no extra spices needed!",
+        "ibu": 39,
+        "abv": "8.00",
+        "srm": 40,
+        "og": "1.07",
+        "fg": "1.01",
+        "body": "0.22",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "U8KAcC",
+    "fields": {
+        "name": "Old Bridge Dark Lager",
+        "desc": null,
+        "ibu": 15,
+        "abv": "5.30",
+        "srm": 4,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.02",
+        "label": null,
+        "brewery": "RNHfY1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "UBaFS6",
+    "fields": {
+        "name": "Kolsch",
+        "desc": "A traditional German Ale from the city of K\u00f6ln, this style provides the best of both worlds. It has the light body and easy drinking characteristics of a lager but backs it up with the malt complexity of an ale. Inspired by our brother Jon and our love for sessionable beer.",
+        "ibu": 20,
+        "abv": "5.00",
+        "srm": 5,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/UBaFS6/upload_ueclH9-large.png",
+        "brewery": "VdpAHg"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "UOvq6u",
+    "fields": {
+        "name": "Windstorm",
+        "desc": "West coast pale ale.\r\n\r\nThe storm that tore through Stanley Park in 2006 sparked a passionate response from a community committed to the protection of this west coast jewel. Our Windstorm brand is inspired by the storm and dedicated to the Park\u2019s ongoing preservation. That\u2019s why we commit proceeds from every sale to help ensure a legacy of \u201cnature in the city\u201d for future generations.",
+        "ibu": 35,
+        "abv": "5.40",
+        "srm": 12,
+        "og": "1.10",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "bpPaLC"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "uRgSZJ",
+    "fields": {
+        "name": "Amber",
+        "desc": "Invented for the Li\u00e9ge exposition of 1905 to compete with British imports, the Sp\u00e9ciale Belge or Belgian pale ale style marries the complexity of Belgium\u2019s beers to the drinkability of Britain\u2019s pale ales. Dageraad Amber\u2019s light malty sweetness and rich bouquet of malt and stone fruit are balanced by a hoppy aroma and a crisp finish. This beer was inspired by the experience of enjoying a fresh bolleke \u2212 Antwerp locals\u2019 affectionate nickname for a glass of De Koninck \u2212 in the Dageraadplatz, just a stone\u2019s throw from the De Koninck Brewery.\r\n\r\nDageraad Amber is fermented with Belgian yeast and bottle conditioned for natural carbonation, and an extra layer of complexity. Pour with care to leave the yeast sediment in the bottle.",
+        "ibu": 26,
+        "abv": "6.00",
+        "srm": 7,
+        "og": "1.11",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "Wlif0F"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "uv26s8",
+    "fields": {
+        "name": "Falconer's Flight IPA",
+        "desc": "Lemon | Tropical | Balanced | At 52 IBUs this IPA is designed to highlight the hop profile and aroma. With large notes of lemon and tropical fruit; Falconer's Flight is a brilliant hop perfect for the Postmark IPA",
+        "ibu": 52,
+        "abv": "6.00",
+        "srm": 11,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.14",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "UVg8LS",
+    "fields": {
+        "name": "G\u2019ALE",
+        "desc": "R&B Brewing\u2019s G\u2019ALE is a beautiful golden ale with a light malt character, wonderfully balanced with a blend of Pacific Northwest hops. R&B Brewing is proud to partner with Vancouver Pride to create this special refreshing beer. A portion of the proceeds will be donated to the society.",
+        "ibu": 15,
+        "abv": "5.00",
+        "srm": 7,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.87",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "UWOAdD",
+    "fields": {
+        "name": "Barrel Aged Russian Imperial Stout",
+        "desc": "Whisky Barrel aged",
+        "ibu": 60,
+        "abv": "11.80",
+        "srm": 40,
+        "og": "1.10",
+        "fg": "1.01",
+        "body": "0.20",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "v3cPN4",
+    "fields": {
+        "name": "Kermode - West Coast IPA",
+        "desc": "Big tropical nose and flavour. Clean and crisp malt profile",
+        "ibu": 63,
+        "abv": "6.50",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.00",
+        "body": "0.01",
+        "label": null,
+        "brewery": "C2PUJ9"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "V5scIC",
+    "fields": {
+        "name": "Bitter Leaf IPA",
+        "desc": "This is all about the hops. Five grains combine to build a malty backbone with a creamy head and smooth finish. Brewed with Cascade, Galaxy, and Nugget hops. Additional hops are added in the fermenter for even more aroma (8%).",
+        "ibu": 64,
+        "abv": "8.00",
+        "srm": 11,
+        "og": "1.06",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "SJ06xd"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "VhOdP5",
+    "fields": {
+        "name": "Cariboo Cream Ale",
+        "desc": "Cream Ale is unique in the fact that it derives from North America not Europe, as it was spawned from a thirst for something more than regular American lager beer. Generally brewed with an ale yeast and cold conditioned like a lager, a Cream Ale will usually have a golden color with light to medium body, but the Cariboo Cream Ale reflects the winters of the North \u2013 a bit more colour, body and flavor to really keep you cozy when it is minus twenty.\r\n\r\nOur Cariboo Cream Ale is brewed with an authentic ale yeast that we have specially selected to give our beer a distinct creamy note to enhance the robust aroma malts, we also add a hint of vanilla. The beer is darker than a typical Cream Ale because we use specialty roasted malts that add more flavor. You can enjoy all year round with spicy Asian foods or pork dishes.",
+        "ibu": 17,
+        "abv": "5.50",
+        "srm": 3,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.28",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/VhOdP5/upload_Qt6vnB-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "vM3y9r",
+    "fields": {
+        "name": "Ipanema Summer White",
+        "desc": "\\Tall and tan and young and lovely\"",
+        "ibu": 23,
+        "abv": "7.17",
+        "srm": 6,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.15",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "vnRu4c",
+    "fields": {
+        "name": "Double IPA (DIPA)",
+        "desc": "A well balanced strong beer. We use a very light malt base to showcase the Columbus, Amarillo, and Azacca hops. There's a lot of citrus, grapefruit, and melon in the aroma which leads straight into the taste. Watch out, this is a serious hop Bomb.",
+        "ibu": 150,
+        "abv": "9.00",
+        "srm": 6,
+        "og": "1.10",
+        "fg": "1.03",
+        "body": "0.74",
+        "label": null,
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "VoV0Gf",
+    "fields": {
+        "name": "Park Life Passion Fruit Ale",
+        "desc": null,
+        "ibu": 15,
+        "abv": "4.50",
+        "srm": 7,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "VS9BQ3",
+    "fields": {
+        "name": "Downtown Brown",
+        "desc": "This real North Country brown ale is all about malt flavours using hops only as a balance to the smooth roast nut character.",
+        "ibu": 32,
+        "abv": "6.25",
+        "srm": 18,
+        "og": "1.10",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "VJ56AP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "wadu38",
+    "fields": {
+        "name": "Pale Ale",
+        "desc": null,
+        "ibu": 37,
+        "abv": "4.95",
+        "srm": 6,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.35",
+        "label": null,
+        "brewery": "2vIPMI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "wEr7fz",
+    "fields": {
+        "name": "American Pale Ale",
+        "desc": "Hearthstone\u2019s American Pale Ale does as it should and lets the hops do the talking. Tropical juicy, citrus fruit, tangerine, mangos in and around your mouth.",
+        "ibu": 38,
+        "abv": "4.50",
+        "srm": 9,
+        "og": "1.05",
+        "fg": "1.02",
+        "body": "0.42",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/wEr7fz/upload_tHRbBz-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "wfK3SY",
+    "fields": {
+        "name": "Lazy D'Haze",
+        "desc": "North Eastern style hazy IPA. Brewer's description: \" Showcasing the juiciness of Amarillo & Equinox hops. Intense aromas of grapefruit, orange, apricot, melon and berries are highlighted by the use of pale ale malt, Vienna malt and wheat\"",
+        "ibu": 58,
+        "abv": "7.00",
+        "srm": 38,
+        "og": "1.12",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/wfK3SY/upload_he69u6-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "WFy4vs",
+    "fields": {
+        "name": "ESB - Nitrogenated",
+        "desc": null,
+        "ibu": 45,
+        "abv": "5.00",
+        "srm": 13,
+        "og": "1.11",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/WFy4vs/upload_jTLejK-large.png",
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "wptM2A",
+    "fields": {
+        "name": "Pacific Pilsner",
+        "desc": "Classic. Pac Pilly is a beer that hearkens back to the glory days of yesteryear, the ad execs and their trophy wives, the smell of easy money and taking off for a weekend at the Ol\u2019 Cottage on the lake. It personifies decadent relaxation, taking time off, even for a minute and taking stock of your surroundings. This true pils \u2014 produced using an ISO-certified, double-fermentation process \u2014 is a crisp, clean, golden brew popular with anyone who loves a timeless blonde. I mean who can resist a timeless blonde?\r\n\r\nOur flagship beer has a classic taste that is beyond refreshing\u2026 crisp, clean, no aftertaste and dry in character like European style beers. Our Pils features the tart, delicate flavour of quality German Hallertau hops perfectly balanced with soft malt notes to produce a refreshing sensation on the tongue. With just a hint of citrus, it is a classic, clear, thirst-quenching brew. Perfect with fish or shellfish including a West Coast favorite \u2013 sushi.",
+        "ibu": 34,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.72",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/wptM2A/upload_4H4YRC-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "WpwJLZ",
+    "fields": {
+        "name": "Black Lager",
+        "desc": null,
+        "ibu": 30,
+        "abv": "5.00",
+        "srm": 41,
+        "og": "1.10",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "VdpAHg"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "wSSFYS",
+    "fields": {
+        "name": "Winter Wonder",
+        "desc": "This distinctive seasonal is brewed in the German lager style known as Schwarzbier. This beer originated as a warm fermented ale style in central Germany before cold fermenting lager yeasts were introduced. Though malty in flavor and dark in color, it is relatively light bodied and has a dry and refreshing finish. A select combination of the world\u2019s finest caramel, pale and black malts give Winter Wonder its delicious roasted flavors and aromas, reminiscent of chocolate, coffee and dried fruit.",
+        "ibu": 22,
+        "abv": "4.80",
+        "srm": 27,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": null,
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/wSSFYS/upload_03t2yr-large.png",
+        "brewery": "aywDqA"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "wwzitk",
+    "fields": {
+        "name": "Bomber Marzen",
+        "desc": "Marzen means \"March\" beer but you may prefer to enjoy this august, medium-bodied German lager all year round. A smooth maltiness and clean, dry finish make this the perfect bier for all occasions - any time of the year!",
+        "ibu": 20,
+        "abv": "5.50",
+        "srm": 9,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.64",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "WZFV6P",
+    "fields": {
+        "name": "Windrose",
+        "desc": null,
+        "ibu": 40,
+        "abv": "6.00",
+        "srm": 25,
+        "og": "1.09",
+        "fg": "1.04",
+        "body": "1.00",
+        "label": null,
+        "brewery": "vX1ujj"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "XaXhOi",
+    "fields": {
+        "name": "Hefeweizen",
+        "desc": null,
+        "ibu": 13,
+        "abv": "5.41",
+        "srm": 4,
+        "og": "1.11",
+        "fg": "1.07",
+        "body": "1.00",
+        "label": null,
+        "brewery": "aEBj0Q"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "XEkv1Z",
+    "fields": {
+        "name": "Naked Fox IPA",
+        "desc": "Born from infamy, our Naked Fox is a sly one. This dry IPA is brewed using a variety of North American and Southern Hemisphere hops, packing in everything you\u2019d want in hop flavour and aroma into a single beer. The dryness on the malt side let\u2019s the hops shine through.",
+        "ibu": 55,
+        "abv": "6.80",
+        "srm": 13,
+        "og": "1.05",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/XEkv1Z/upload_jjTLEK-large.png",
+        "brewery": "1kHwaQ"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "XfmmJI",
+    "fields": {
+        "name": "Frambozen",
+        "desc": "A ruby-red raspberry beer with a luscious, pink head\n\nOur Frambozen is inspired by the centuries old Belgian tradition of brewing beer with raspberries. This high gravity brew undergoes a slow second fermentation with tons of fresh, whole Fraser Valley raspberries. The result is a ruby-red fruit beer with a intense raspberry flavour, a nice tart finish and a luscious pink head.",
+        "ibu": 18,
+        "abv": "8.34",
+        "srm": 34,
+        "og": "1.12",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/XfmmJI/upload_k9Ijro-large.png",
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "xnHPEx",
+    "fields": {
+        "name": "Lord Of The Hops",
+        "desc": null,
+        "ibu": 41,
+        "abv": "7.20",
+        "srm": 7,
+        "og": "1.06",
+        "fg": "1.01",
+        "body": "0.20",
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "XOX2Yy",
+    "fields": {
+        "name": "PSF Lager",
+        "desc": "Tranquil | Striking | Pleasant | Brewed in collaboration with Pacific Salmon Foundation to support salmon conservation project in BC.",
+        "ibu": 18,
+        "abv": "4.70",
+        "srm": 4,
+        "og": "1.09",
+        "fg": "1.05",
+        "body": "1.00",
+        "label": null,
+        "brewery": "kEPLku"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "xPc3EC",
+    "fields": {
+        "name": "Main Street Pilsner",
+        "desc": "This is a Pilsner. Bright, golden and medium bodied. Created with noble hops, the result is a clean, easy drinking beer that finishes crisply. Afterall, The Main Thing Is The Beer.",
+        "ibu": 22,
+        "abv": "5.00",
+        "srm": 6,
+        "og": "1.06",
+        "fg": "1.02",
+        "body": "0.58",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/xPc3EC/upload_ac52Bh-large.png",
+        "brewery": "jxwn2n"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "xsiAJM",
+    "fields": {
+        "name": "Pixel Pils",
+        "desc": null,
+        "ibu": 30,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "INXmN1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Y34syi",
+    "fields": {
+        "name": "Ko Lanta",
+        "desc": "Galangal, lime Leaves & an extra bag of grain",
+        "ibu": 28,
+        "abv": "6.40",
+        "srm": 7,
+        "og": "1.11",
+        "fg": "1.06",
+        "body": "1.00",
+        "label": null,
+        "brewery": "Wlif0F"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "yj2Q1n",
+    "fields": {
+        "name": "Game Day",
+        "desc": null,
+        "ibu": 54,
+        "abv": "8.86",
+        "srm": 43,
+        "og": "1.10",
+        "fg": "1.03",
+        "body": "0.72",
+        "label": null,
+        "brewery": "y6OQwH"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "yoHUwN",
+    "fields": {
+        "name": "Nirvana Nut Brown Ale",
+        "desc": "Our regulars have many reasons for frequenting our premises. Some come for the comfy chairs, a game of pool, or to exude some seriously suaveness at the oyster bar on a Friday evening. For the truly devoted, however, who come in search of truth, it's the Nut Brown they're after. Often they arrive with a glazed look in their eyes, having endured days of office drudgery or the unknowable hardships of securing a parking spot. Set your cares aside, for all can find solace in this ale's yin-yang of nutty maltiness and delicate, dryish hoppiness. For our Nut Brown, an ale deep auburn in colour, we use a blend of Munich, caramel and chocolate malts to create a rich malty palate with a lingering dry chocolatiness.",
+        "ibu": 29,
+        "abv": "6.25",
+        "srm": 26,
+        "og": "1.04",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": null,
+        "brewery": "Y8edrP"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "YpGk4a",
+    "fields": {
+        "name": "Pale Ale",
+        "desc": "Pale malts and fresh ale yeatss combine to produce a fruity character with a delicate aroma.",
+        "ibu": 30,
+        "abv": "4.50",
+        "srm": 13,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": null,
+        "label": null,
+        "brewery": "oZ1O3I"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "YVUFSj",
+    "fields": {
+        "name": "Citradelic Single Hop IPA",
+        "desc": "An incredibly smooth and refreshing IPA using only Citra hops to balance the bitterness with citrus and tropical tones.",
+        "ibu": 60,
+        "abv": "6.00",
+        "srm": 6,
+        "og": "1.08",
+        "fg": "1.04",
+        "body": "0.96",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/YVUFSj/upload_M2toOT-large.png",
+        "brewery": "HzgkCR"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "yyHs0p",
+    "fields": {
+        "name": "NatureLand Organic Amber Ale",
+        "desc": "Organic Brown Ale: Distinct smooth malt beer with full color and a clean finish\r\nThis Gold Medal winning NatureLand Amber Ale is a unique beer that is certified organic by the OCIA \u2013 Organic Crop Improvement Association. Brewed with 100% organic two row malt, 100% organic Hallertau Hops and pure spring water from the pristine Caribou Spring. All ingredients are certified organic including the water which is sourced through a certified organic process.\r\n\r\nRich and smooth this Amber Ale is truly worthy of the gold that adorns the label. Pair this with succulent meats and you will not be dissappointed.",
+        "ibu": 29,
+        "abv": "5.00",
+        "srm": 24,
+        "og": "1.02",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/yyHs0p/upload_8Jj1oJ-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "YYZvpQ",
+    "fields": {
+        "name": "Wyld Raspberry",
+        "desc": "We brew this the way they did back in the day, using a 100% wild lactobacillus bacteria to sour the beer, then we bring it back into the kettle and add 200 lbs of real, whole local raspberries resulting in a pink, tart and refreshing summer beer.",
+        "ibu": 86,
+        "abv": "3.20",
+        "srm": 9,
+        "og": "1.13",
+        "fg": "1.10",
+        "body": "1.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/YYZvpQ/upload_jzBS2N-large.png",
+        "brewery": "5CVTMw"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Z4n0xt",
+    "fields": {
+        "name": "33 Acres of Sunshine",
+        "desc": "Born of the sun this unfiltered white ale has long been praised by the Belgians and revered by the French. Our dreamy Blanche beer is silky smooth and subspiced with orange peel, coriander and anise seed to pair perfectly with the golden days of summer.",
+        "ibu": 17,
+        "abv": "5.00",
+        "srm": 4,
+        "og": "1.06",
+        "fg": "1.02",
+        "body": "0.50",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/Z4n0xt/upload_iKhPGK-large.png",
+        "brewery": "DqlySI"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "Z9cABb",
+    "fields": {
+        "name": "Traditional BC Lager",
+        "desc": "Maybe Elvis and the birth of rock \u2019n\u2019 roll were all the rage elsewhere in 1957, but here in BC our brewers were excited about perfecting a simple, iconic beer. Forget about gimmicks. This was lager as it was meant to be \u2014 something you can curl up with (Lager in German actual mean bed or camp). Today, half a century later, we are carrying on that tradition \u2014 brewing an honest beer and an honest light beer from that same classic recipe.\r\n\r\nTraditional BC Lager is as good as it gets: An easy-drinking beer providing unparalleled refreshment. Well-balanced, slightly redolent of fresh herbs, this brew will enhance whatever or whomever it accompanies. Great with spicy food or roast chicken.",
+        "ibu": 21,
+        "abv": "5.00",
+        "srm": 4,
+        "og": "1.03",
+        "fg": "1.00",
+        "body": "0.00",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/Z9cABb/upload_FRH69x-large.png",
+        "brewery": "bSzuQk"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "zFfQr8",
+    "fields": {
+        "name": "Belgian Witbier w/ Ginger and Cardamom",
+        "desc": "This Belgian Witbier combines traditional bitter orange peel and coriander with the aromatics of cardamom and the slight spiciness of ginger.",
+        "ibu": 16,
+        "abv": "5.00",
+        "srm": 3,
+        "og": "1.04",
+        "fg": "1.01",
+        "body": "0.16",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/zFfQr8/upload_yLCQBm-large.png",
+        "brewery": "LGSXeN"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "ZGiX3B",
+    "fields": {
+        "name": "Bomber Blonde",
+        "desc": "Bright, refreshing, and ready to drink!  We\u2019ve blended the classic fruit and spice of Belgian yeast into the clean approachability of an American Blonde.",
+        "ibu": 17,
+        "abv": "5.00",
+        "srm": 5,
+        "og": "1.05",
+        "fg": "1.01",
+        "body": "0.30",
+        "label": null,
+        "brewery": "zXqAje"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "zIHKT7",
+    "fields": {
+        "name": "Destiny IPA",
+        "desc": null,
+        "ibu": 62,
+        "abv": "6.00",
+        "srm": 11,
+        "og": "1.08",
+        "fg": "1.03",
+        "body": "0.84",
+        "label": null,
+        "brewery": "INXmN1"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "ZjKrNd",
+    "fields": {
+        "name": "Main Street Session IPA",
+        "desc": "A clean and crisp session ale noting a smooth hop bitterness balanced with our premium malts, then dry hopped to create a truly \u201csensational session\u201d IPA.",
+        "ibu": 55,
+        "abv": "4.80",
+        "srm": 8,
+        "og": "1.07",
+        "fg": "1.03",
+        "body": "0.87",
+        "label": "https://s3.amazonaws.com/brewerydbapi/beer/ZjKrNd/upload_MtmSD9-large.png",
+        "brewery": "jxwn2n"
+    }
+},
+{
+    "model": "beerdata.beer",
+    "pk": "ZxAEn9",
+    "fields": {
+        "name": "Artisan IPA",
+        "desc": "This light golden IPA starts with a hoppy bitterness, followed by a medium level of maltiness and body, finishing with a refreshingly fruity grapefruit flavour.",
+        "ibu": 45,
+        "abv": "5.50",
+        "srm": 11,
+        "og": "1.06",
+        "fg": "1.02",
+        "body": "0.44",
+        "label": null,
+        "brewery": "aOC64s"
+    }
+}
+]

@@ -1,0 +1,171 @@
+{% extends 'beertrends/base.html' %}
+{% block content %}
+ <script src="http://d3js.org/d3.v3.min.js"></script>
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<div class="grid-x">
+     {% if not beers %}
+         <h2 style="text-align: center">Sorry, no beers found! Try increasing radius or fuzziness.</h2>
+         <h4 style="text-align: center"><a href="{% url 'recommender:recommender' %}">Make another search</a></h4>
+     {% else %}
+     <!--- Wrap table in div to allow scroll bar to show if long resulting list -->
+     <div class="cell large-8 small-12">
+        <h2 style="text-align: center">Our Recommendations</h2>
+     </div>
+         <!--- Create The table which contains the information about each beer -->
+    <div class="cell large-8 small-12" style="height: 400px; overflow: auto;">
+        <table class="recommended-beers">
+             <thead>
+                 <tr>
+                     <th>Beer</th>
+                     <th>Brewery</th>
+                     <th>ABV</th>
+                     <th>IBU</th>
+                     <th>SRM</th>
+                     <th>Body</th>
+                 </tr>
+             </thead>
+             <tbody>
+                 <!-- Create a new row for each of the resulting beers -->
+                 {% for i in beers %}
+                 <tr onclick="drawChart({{forloop.counter0}})" id="{{forloop.counter0}}">
+                     <td>
+                         <a target="_blank" href="http://www.brewerydb.com/beer/{{i.id}}">{{i.name | safe}}</a>
+                         {% if user.is_authenticated %}
+                             {% if i.id in saved_beers %}
+                                 ✓ 
+                             {% else %}
+                                 <a href="#" id="{{i.id}}" onclick="add_item('{{i.id}}', '{% url 'userprofile:add_beer_to_wishlist' i.id %}'); return false;">(Save to wishlist)</a>
+                             {% endif %}
+                         {% endif %}
+                     </td>
+                     <td>
+                         <a target="_blank" href="http://www.brewerydb.com/brewery/{{i.brewery.id}}">{{i.brewery | safe}}</a>
+                         {% if user.is_authenticated %}
+                             {% if i.brewery.id in watched_breweries %}
+                                 ✓ 
+                             {% else %}
+                             <a href="#" id="{{i.brewery.id}}{{i.id}}" onclick="add_item('{{i.brewery.id}}{{i.id}}', '{% url 'userprofile:add_brewery_to_watchlist' i.brewery.id %}'); return false;">(Save to watchlist)</a>
+                             {% endif %}
+                         {% endif %}
+                    </td>
+                     <td>{{i.abv | safe}}%</td>
+                     <td>{{i.ibu | safe}}</td>
+                     <td>{{i.srm | safe}}</td>
+                     <td>{{i.body | safe}}</td>
+                 </tr> 
+                 {% endfor %}
+             </tbody>
+        </table>
+    </div>
+    <div class="cell large-4 medium-6 small-12">
+        <span class="radarChart"></span>
+    </div>
+        <div class="cell medium-6 small-12">
+             <h2 style= "text-align: center">Description</h2>
+             <h6 style= "text-align: center" id="BeerDescription"></h6>
+        </div>
+        <div class="cell medium-6 small-12">
+            <!-- Create the box which will contain the beer label image-->
+            <img id="BeerLabel" alt="Beer Label" style="border:2px solid black; width:300px;height:300px;">
+     </div>
+</div>
+ {% load static %}
+ <script type="text/javascript" src="{% static "radarChart.js" %}"></script>	
+
+ <script>
+function drawChart(value){
+    
+    var maxValue = "{{default.abv | safe}}";
+
+    /* Radar chart design created by Nadieh Bremer - VisualCinnamon.com */
+    var margin = {top: 50, right: 50, bottom: 50, left: 50},
+        width = Math.min(400, window.innerWidth - 10) - margin.left - margin.right,
+        height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
+    var data = [];
+
+    //Push the default values to the chart
+    data.push([
+        {axis:"ABV",value:"{{default.abv | safe}}"},
+        {axis:"IBU",value:("{{default.ibu | safe}}" / 100) * "{{default.abv | safe}}"} ,
+        {axis:"SRM",value:("{{default.srm | safe}}" / 50) * "{{default.abv | safe}}"} ,
+        {axis:"BODY",value:"{{default.body | safe}}" * "{{default.abv | safe}}"} ,
+    ]);
+
+    //Plot the selected beer onto the chart
+    {% for i in beers %}
+
+    if("{{i.abv | safe}}" > maxValue){
+        maxValue = "{{i.abv | safe}}";
+    }
+    document.getElementById({{forloop.counter0}}).style = "background-color:white";
+    if(value == {{forloop.counter0}}){
+        document.getElementById(value).style = "background-color:lightgreen";
+        var body;
+        if("{{i.body | safe}}" == "None"){
+            body = 0;
+        }
+        else{
+            body = "{{i.body | safe}}" * "{{default.abv | safe}}";
+        }
+        data.push([
+            {axis:"ABV",value:"{{i.abv | safe}}"},
+            {axis:"IBU",value:("{{i.ibu | safe}}" / 100) * "{{default.abv | safe}}"} ,
+            {axis:"SRM",value:("{{i.srm | safe}}" / 50) * "{{default.abv | safe}}"} ,
+            {axis:"BODY",value: body} ,
+        ]);
+
+
+        //Update the beers des1cription 
+        document.getElementById("BeerDescription").innerHTML = "{{i.desc | linebreaksbr}}";
+        //Update the beers label Image
+        if("{{i.label | safe}}" != "None"){
+
+            document.getElementById("BeerLabel").src = "{{i.label | safe}}";
+        }
+        else{
+            document.getElementById("BeerLabel").src = "https://ih0.redbubble.net/image.105694219.3377/ap,550x550,12x16,1,transparent,t.u12.png";
+        }
+    }
+
+    {% endfor %}
+
+    //The colors used for plotting the radar chart
+    var color = d3.scale.ordinal()
+        .range(["#EDC951","#CC333F","#00A0B0"]);
+
+
+    //Options related to radar chart
+    var radarChartOptions = {
+        w: width,
+        h: height,
+        margin: margin,
+        maxValue: maxValue,
+        levels: 5,
+        roundStrokes: true,
+        color: color
+    };
+
+    //Call function to draw the Radar chart
+    RadarChart(".radarChart", data, radarChartOptions);
+}
+ </script>
+ <script>document.body.addEventListener("onload", drawChart());</script>
+ <script>
+function add_item(item_id, url) {
+    console.log(url)
+    $.ajax({
+        url: url,
+        type: "GET",
+        success: function (resp) {
+            response = resp;
+            document.getElementById(item_id).innerHTML = "✓";
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+            console.log(textStatus + " " + errorThrown);
+        }  
+    });
+}
+ </script>
+{% endif %}
+ {% endblock %}
+

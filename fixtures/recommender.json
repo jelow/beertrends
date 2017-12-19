@@ -1,0 +1,626 @@
+[
+{
+    "model": "recommender.recommendation",
+    "pk": 1,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 2,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 3,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 4,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 5,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 6,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 7,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 8,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 9,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 10,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 11,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.10",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 12,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 13,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 14,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 15,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 16,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 17,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 18,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 19,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 20,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 21,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 22,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 23,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 24,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 25,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 26,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 27,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 28,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 29,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 50,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 30,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 31,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 32,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 33,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 34,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 35,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 36,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 37,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 38,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 39,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 40,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 41,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 42,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.20",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 43,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 44,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 45,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 46,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 47,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+},
+{
+    "model": "recommender.recommendation",
+    "pk": 48,
+    "fields": {
+        "ibu": 25,
+        "abv": "5.00",
+        "srm": 10,
+        "og": "1.05",
+        "fg": "1.01",
+        "fuzziness": "0.50",
+        "beers": []
+    }
+}
+]

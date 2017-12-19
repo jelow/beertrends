@@ -1,0 +1,38 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$36000$xvnTiwJzlQN6$Woxz0QZJe90rSxgmgaJ4WmY8FabcdzLyE4JYq5dUUAc=",
+            "last_login": "2017-08-06T19:51:33.508Z",
+            "is_superuser": true,
+            "username": "admin",
+            "first_name": "",
+            "last_name": "",
+            "email": "dmartyn@sfu.ca",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2017-08-06T19:51:16.784Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$36000$GaiUqrZ3BLlg$xFASoARMb8otxEdL2OoA2w3L043sQ1VvvJVycP6+tyo=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "quasimodo",
+            "first_name": "Quasimodo",
+            "last_name": "Beerholder",
+            "email": "dmartyn@sfu.ca",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2017-08-06T19:52:21Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    }
+]
